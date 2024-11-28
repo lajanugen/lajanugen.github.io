@@ -38,8 +38,7 @@ I am a Research Scientist at LG AI Research. I received my PhD from the Computer
 
 - **Unsupervised Task Graph Generation from Instructional Video Transcripts** \[[paper](https://aclanthology.org/2023.findings-acl.210.pdf)\]  
   *Lajanugen Logeswaran, Sungryull Sohn, Yunseok Jang, Moontae Lee, Honglak Lee*  
-  Findings of ACL 2023  
-  Also at ACL WNU Workshop 2023
+  Findings of ACL 2023 (Also at ACL WNU Workshop 2023)
 
 - **Knowledge Unlearning for Mitigating Privacy Risks in Language Models** \[[paper](https://aclanthology.org/2023.acl-long.805.pdf)\]  
   *Joel Jang, Dongkeun Yoon, Sohee Yang, Sungmin Cha, Moontae Lee, Lajanugen Logeswaran, Minjoon Seo*  
@@ -51,13 +50,11 @@ I am a Research Scientist at LG AI Research. I received my PhD from the Computer
 
 - **Few-shot Subgoal Planning with Language Models** \[[paper](https://aclanthology.org/2022.naacl-main.402.pdf)\]  
   *Lajanugen Logeswaran, Violet Fu, Moontae Lee, Honglak Lee*  
-  NAACL 2022
-  Also at ACL CSRR workshop 2022
+  NAACL 2022 (Also at ACL CSRR workshop 2022)
 
 - **Zero-Shot Entity Linking by Reading Entity Descriptions** \[[paper](https://aclanthology.org/P19-1335.pdf)\]  
   *Lajanugen Logeswaran, Ming-Wei Chang, Kenton Lee, Kristina Toutanova, Jacob Devlin, Honglak Lee*  
-  ACL 2019  
-  Nominated for best paper
+  ACL 2019 (Nominated for best paper)
 
 - **Content Preserving Text Generation with Attribute Controls** \[[paper](https://proceedings.neurips.cc/paper_files/paper/2018/file/7cf64379eb6f29a4d25c4b6a2df713e4-Paper.pdf)\]  
   *Lajanugen Logeswaran, Honglak Lee, Samy Bengio*  
