@@ -15,14 +15,14 @@ News
 - 10/07/23: 4 papers accepted at EMNLP 2023
 - 05/02/23: 3 papers accepted at ACL 2023
 
-Talks
+### Talks
 - May 2024: Guiding Language Models to be Better Agents (Frontiers of AI in Business and Society @ UIC)
 - Oct 2023: Task Planning with Large Language Models (University of Michigan AI Seminar)
 - Jul 2022: Few-Shot Subgoal Planning with Language Models (Talk starts 49:16)
 - Aug 2019: Zero-Shot Entity Linking by Reading Entity Descriptions
 - Feb 2019: Ann Arbor Deep Learning Event
 
-Selected Publications
+### Selected Publications
 
 - Code Models are Zero-shot Precondition Reasoners  
   Lajanugen Logeswaran, Sungryull Sohn, Yiwei Lyu, Anthony Zhe Liu, Dong-Ki Kim, Dongsub Shim, Moontae Lee, Honglak Lee  
@@ -75,13 +75,13 @@ Selected Publications
   Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, Honglak Lee  
   ICML 2016
 
-Professional Experience
+### Professional Experience
 - Research Scientist, LG AI Research (Ann Arbor), Jul 2021 - Present
 - Research Intern, Facebook AI Research (New York), May - Aug 2019
 - Research Intern, Google Research (Seattle), May 2018 - Jan 2019
 - Research Intern, Google Brain (Mountain View), Feb - Jun 2017
 
-Awards & Honors
+### Awards & Honors
 - IEEEXtreme 24 hour Programming Competition - 24th place (2013)
 - INexus International Robot Competition - 3rd place (2012)
 - Bronze medal at the 50th International Mathematical Olympiad (2009)
