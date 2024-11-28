@@ -24,57 +24,55 @@ Talks
 
 Selected Publications
 
-- Code Models are Zero-shot Precondition Reasoners
-  Lajanugen Logeswaran, Sungryull Sohn, Yiwei Lyu, Anthony Zhe Liu, Dong-Ki Kim, Dongsub Shim, Moontae Lee, Honglak Lee
+- Code Models are Zero-shot Precondition Reasoners  
+  Lajanugen Logeswaran, Sungryull Sohn, Yiwei Lyu, Anthony Zhe Liu, Dong-Ki Kim, Dongsub Shim, Moontae Lee, Honglak Lee  
   NAACL 2024 (Also at Neurips FMDM Workshop 2023)
 
-
-- Understanding the Capabilities and Limitations of Large Language Models for Cultural Commonsense
-  Siqi Shen, Lajanugen Logeswaran, Moontae Lee, Honglak Lee, Soujanya Poria, Rada Mihalcea
+- Understanding the Capabilities and Limitations of Large Language Models for Cultural Commonsense  
+  Siqi Shen, Lajanugen Logeswaran, Moontae Lee, Honglak Lee, Soujanya Poria, Rada Mihalcea  
   NAACL 2024 (Social Impact Award)
 
-
-- TOD-Flow: Modeling the Structure of Task-Oriented Dialogues
-  Sungryull Sohn, Yiwei Lyu, Anthony Zhe Liu, Lajanugen Logeswaran, Dong-Ki Kim, Dongsub Shim, Honglak Lee
+- TOD-Flow: Modeling the Structure of Task-Oriented Dialogues  
+  Sungryull Sohn, Yiwei Lyu, Anthony Zhe Liu, Lajanugen Logeswaran, Dong-Ki Kim, Dongsub Shim, Honglak Lee  
   EMNLP 2023
 
-- Unsupervised Task Graph Generation from Instructional Video Transcripts
-  Lajanugen Logeswaran, Sungryull Sohn, Yunseok Jang, Moontae Lee, Honglak Lee
-  Findings of ACL 2023
+- Unsupervised Task Graph Generation from Instructional Video Transcripts  
+  Lajanugen Logeswaran, Sungryull Sohn, Yunseok Jang, Moontae Lee, Honglak Lee  
+  Findings of ACL 2023  
   Also at ACL WNU Workshop 2023
 
-- Knowledge Unlearning for Mitigating Privacy Risks in Language Models
-  Joel Jang, Dongkeun Yoon, Sohee Yang, Sungmin Cha, Moontae Lee, Lajanugen Logeswaran, Minjoon Seo
+- Knowledge Unlearning for Mitigating Privacy Risks in Language Models  
+  Joel Jang, Dongkeun Yoon, Sohee Yang, Sungmin Cha, Moontae Lee, Lajanugen Logeswaran, Minjoon Seo  
   ACL 2023
 
-- Exploring the Benefits of Training Expert Language Models over Instruction Tuning
-  Joel Jang, Seungone Kim, Seonghyeon Ye, Doyoung Kim, Lajanugen Logeswaran, Moontae Lee, Kyungjae Lee, Minjoon Seo
+- Exploring the Benefits of Training Expert Language Models over Instruction Tuning  
+  Joel Jang, Seungone Kim, Seonghyeon Ye, Doyoung Kim, Lajanugen Logeswaran, Moontae Lee, Kyungjae Lee, Minjoon Seo  
   ICML 2023
 
-- Few-shot Subgoal Planning with Language Models
-  Lajanugen Logeswaran, Violet Fu, Moontae Lee, Honglak Lee
+- Few-shot Subgoal Planning with Language Models  
+  Lajanugen Logeswaran, Violet Fu, Moontae Lee, Honglak Lee  
   NAACL 2022
   Also at ACL CSRR workshop 2022
 
-- Zero-Shot Entity Linking by Reading Entity Descriptions
-  Lajanugen Logeswaran, Ming-Wei Chang, Kenton Lee, Kristina Toutanova, Jacob Devlin, Honglak Lee
-  ACL 2019
+- Zero-Shot Entity Linking by Reading Entity Descriptions  
+  Lajanugen Logeswaran, Ming-Wei Chang, Kenton Lee, Kristina Toutanova, Jacob Devlin, Honglak Lee  
+  ACL 2019  
   Nominated for best paper
 
-- Content Preserving Text Generation with Attribute Controls
-  Lajanugen Logeswaran, Honglak Lee, Samy Bengio
+- Content Preserving Text Generation with Attribute Controls  
+  Lajanugen Logeswaran, Honglak Lee, Samy Bengio  
   NIPS 2018
 
-- An Efficient Framework for Learning Sentence Representations
-  Lajanugen Logeswaran, Honglak Lee
+- An Efficient Framework for Learning Sentence Representations  
+  Lajanugen Logeswaran, Honglak Lee  
   ICLR 2018
 
-- Sentence Ordering and Coherence Modeling using Recurrent Neural Networks
-  Lajanugen Logeswaran, Honglak Lee, Dragomir Radev
+- Sentence Ordering and Coherence Modeling using Recurrent Neural Networks  
+  Lajanugen Logeswaran, Honglak Lee, Dragomir Radev  
   AAAI 2018
 
-- Generative Adversarial Text-to-Image Synthesis
-  Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, Honglak Lee
+- Generative Adversarial Text-to-Image Synthesis  
+  Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, Honglak Lee  
   ICML 2016
 
 Professional Experience
