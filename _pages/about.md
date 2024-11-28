@@ -32,47 +32,47 @@ I am a Research Scientist at LG AI Research. I received my PhD from the Computer
   *Siqi Shen, Lajanugen Logeswaran, Moontae Lee, Honglak Lee, Soujanya Poria, Rada Mihalcea*  
   NAACL 2024 (Social Impact Award)
 
-- **TOD-Flow: Modeling the Structure of Task-Oriented Dialogues**\[[paper](https://aclanthology.org/2023.emnlp-main.204.pdf)\]  
+- **TOD-Flow: Modeling the Structure of Task-Oriented Dialogues** \[[paper](https://aclanthology.org/2023.emnlp-main.204.pdf)\]  
   *Sungryull Sohn, Yiwei Lyu, Anthony Zhe Liu, Lajanugen Logeswaran, Dong-Ki Kim, Dongsub Shim, Honglak Lee*  
   EMNLP 2023
 
-- **Unsupervised Task Graph Generation from Instructional Video Transcripts**\[paper](https://aclanthology.org/2023.findings-acl.210.pdf)\]  
+- **Unsupervised Task Graph Generation from Instructional Video Transcripts** \[[paper](https://aclanthology.org/2023.findings-acl.210.pdf)\]  
   *Lajanugen Logeswaran, Sungryull Sohn, Yunseok Jang, Moontae Lee, Honglak Lee*  
   Findings of ACL 2023  
   Also at ACL WNU Workshop 2023
 
-- **Knowledge Unlearning for Mitigating Privacy Risks in Language Models**\[[paper](https://aclanthology.org/2023.acl-long.805.pdf)\]  
+- **Knowledge Unlearning for Mitigating Privacy Risks in Language Models** \[[paper](https://aclanthology.org/2023.acl-long.805.pdf)\]  
   *Joel Jang, Dongkeun Yoon, Sohee Yang, Sungmin Cha, Moontae Lee, Lajanugen Logeswaran, Minjoon Seo*  
   ACL 2023
 
-- **Exploring the Benefits of Training Expert Language Models over Instruction Tuning**\[[paper](https://proceedings.mlr.press/v202/jang23a/jang23a.pdf)\]  
+- **Exploring the Benefits of Training Expert Language Models over Instruction Tuning** \[[paper](https://proceedings.mlr.press/v202/jang23a/jang23a.pdf)\]  
   *Joel Jang, Seungone Kim, Seonghyeon Ye, Doyoung Kim, Lajanugen Logeswaran, Moontae Lee, Kyungjae Lee, Minjoon Seo*  
   ICML 2023
 
-- **Few-shot Subgoal Planning with Language Models**\[[paper](https://aclanthology.org/2022.naacl-main.402.pdf)\]  
+- **Few-shot Subgoal Planning with Language Models** \[[paper](https://aclanthology.org/2022.naacl-main.402.pdf)\]  
   *Lajanugen Logeswaran, Violet Fu, Moontae Lee, Honglak Lee*  
   NAACL 2022
   Also at ACL CSRR workshop 2022
 
-- **Zero-Shot Entity Linking by Reading Entity Descriptions**\[[paper](https://aclanthology.org/P19-1335.pdf)\]  
+- **Zero-Shot Entity Linking by Reading Entity Descriptions** \[[paper](https://aclanthology.org/P19-1335.pdf)\]  
   *Lajanugen Logeswaran, Ming-Wei Chang, Kenton Lee, Kristina Toutanova, Jacob Devlin, Honglak Lee*  
   ACL 2019  
   Nominated for best paper
 
-- **Content Preserving Text Generation with Attribute Controls**\[[paper](https://proceedings.neurips.cc/paper_files/paper/2018/file/7cf64379eb6f29a4d25c4b6a2df713e4-Paper.pdf)\]  
+- **Content Preserving Text Generation with Attribute Controls** \[[paper](https://proceedings.neurips.cc/paper_files/paper/2018/file/7cf64379eb6f29a4d25c4b6a2df713e4-Paper.pdf)\]  
   *Lajanugen Logeswaran, Honglak Lee, Samy Bengio*  
   NIPS 2018
 
-- **An Efficient Framework for Learning Sentence Representations**\[[paper](https://openreview.net/pdf?id=rJvJXZb0W)\]  
+- **An Efficient Framework for Learning Sentence Representations** \[[paper](https://openreview.net/pdf?id=rJvJXZb0W)\]  
   *Lajanugen Logeswaran, Honglak Lee*  
   ICLR 2018
 
-- **Sentence Ordering and Coherence Modeling using Recurrent Neural Networks**\[paper](https://cdn.aaai.org/ojs/11997/11997-13-15525-1-2-20201228.pdf)\]  
+- **Sentence Ordering and Coherence Modeling using Recurrent Neural Networks** \[[paper](https://cdn.aaai.org/ojs/11997/11997-13-15525-1-2-20201228.pdf)\]  
   *Lajanugen Logeswaran, Honglak Lee, Dragomir Radev*  
   AAAI 2018
 
-- **Generative Adversarial Text-to-Image Synthesis**  
-  *Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, Honglak Lee*\[[paper](https://proceedings.mlr.press/v48/reed16.pdf)\]  
+- **Generative Adversarial Text-to-Image Synthesis** \[[paper](https://proceedings.mlr.press/v48/reed16.pdf)\]  
+  *Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, Honglak Lee*  
   ICML 2016
 
 ### Professional Experience
