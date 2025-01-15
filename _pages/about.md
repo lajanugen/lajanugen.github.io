@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at LG AI Research. I received my PhD from the Computer Science Department at the University of Michigan. My research interests lie in Machine Learning and Natural Language Processing. My specific interests include representation learning, learning from limited supervision and language grounding.
+I am a Research Scientist at LG AI Research. I received my PhD from the Computer Science Department at the University of Michigan, where I worked on topics including representation learning, learning from limited supervision and language grounding. More recently, I have been interested in enhancing the planning, reasoning and agent capabilities of language models.
 
 ### News
 - 03/13/24: 3 papers accepted at NAACL 2024
@@ -24,17 +24,21 @@ I am a Research Scientist at LG AI Research. I received my PhD from the Computer
 
 ### Selected Publications
 
-- **Code Models are Zero-shot Precondition Reasoners** \[[paper](https://arxiv.org/pdf/2311.09601.pdf)\]  
-  *Lajanugen Logeswaran, Sungryull Sohn, Yiwei Lyu, Anthony Zhe Liu, Dong-Ki Kim, Dongsub Shim, Moontae Lee, Honglak Lee*  
-  NAACL 2024 (Also at Neurips FMDM Workshop 2023)
+- **Autoguide: Automated generation and selection of state-aware guidelines for large language model agents.** \[[paper](https://arxiv.org/pdf/2403.08978)\]  
+  *Yao Fu, Dong-Ki Kim, Jaekyeom Kim, Sungryull Sohn, Lajanugen Logeswaran, Kyunghoon Bae, Honglak Lee.*  
+  NeurIPS 2024
+
+- **Auto-Intent: Automated Intent Discovery and Self-Exploration for Large Language Model Web Agents** \[[paper](https://arxiv.org/pdf/2410.22552)\]  
+  *Jaekyeom Kim, Dong-Ki Kim, Lajanugen Logeswaran, Sungryull Sohn, Honglak Lee*  
+  EMNLP Findings 2024
 
 - **Understanding the Capabilities and Limitations of Large Language Models for Cultural Commonsense** \[[paper](https://aclanthology.org/2024.naacl-long.316.pdf)\]  
   *Siqi Shen, Lajanugen Logeswaran, Moontae Lee, Honglak Lee, Soujanya Poria, Rada Mihalcea*  
   NAACL 2024 (Social Impact Award)
 
-- **TOD-Flow: Modeling the Structure of Task-Oriented Dialogues** \[[paper](https://aclanthology.org/2023.emnlp-main.204.pdf)\]  
-  *Sungryull Sohn, Yiwei Lyu, Anthony Zhe Liu, Lajanugen Logeswaran, Dong-Ki Kim, Dongsub Shim, Honglak Lee*  
-  EMNLP 2023
+- **Code Models are Zero-shot Precondition Reasoners** \[[paper](https://arxiv.org/pdf/2311.09601.pdf)\]  
+  *Lajanugen Logeswaran, Sungryull Sohn, Yiwei Lyu, Anthony Zhe Liu, Dong-Ki Kim, Dongsub Shim, Moontae Lee, Honglak Lee*  
+  NAACL 2024 (Also at Neurips FMDM Workshop 2023)
 
 - **Unsupervised Task Graph Generation from Instructional Video Transcripts** \[[paper](https://aclanthology.org/2023.findings-acl.210.pdf)\]  
   *Lajanugen Logeswaran, Sungryull Sohn, Yunseok Jang, Moontae Lee, Honglak Lee*  
@@ -63,14 +67,6 @@ I am a Research Scientist at LG AI Research. I received my PhD from the Computer
 - **An Efficient Framework for Learning Sentence Representations** \[[paper](https://openreview.net/pdf?id=rJvJXZb0W)\]  
   *Lajanugen Logeswaran, Honglak Lee*  
   ICLR 2018
-
-- **Sentence Ordering and Coherence Modeling using Recurrent Neural Networks** \[[paper](https://cdn.aaai.org/ojs/11997/11997-13-15525-1-2-20201228.pdf)\]  
-  *Lajanugen Logeswaran, Honglak Lee, Dragomir Radev*  
-  AAAI 2018
-
-- **Generative Adversarial Text-to-Image Synthesis** \[[paper](https://proceedings.mlr.press/v48/reed16.pdf)\]  
-  *Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, Honglak Lee*  
-  ICML 2016
 
 ### Professional Experience
 - Research Scientist, LG AI Research (Ann Arbor), Jul 2021 - Present
