@@ -9,16 +9,9 @@ redirect_from:
 
 I am a Research Scientist at LG AI Research. I received my PhD from the Computer Science Department at the University of Michigan, where I worked on topics including representation learning, learning from limited supervision and language grounding. More recently, I have been interested in enhancing the planning, reasoning and agent capabilities of language models.
 
-### News
-- 03/13/24: 3 papers accepted at NAACL 2024
-- 10/10/23: Invited talk at UM on Task Planning with Language Models
-- 10/07/23: 4 papers accepted at EMNLP 2023
-- 05/02/23: 3 papers accepted at ACL 2023
-
 ### Talks
 - May 2024: Guiding Language Models to be Better Agents ([Frontiers of AI in Business and Society @ UIC](https://sites.google.com/uic.edu/ids-workshop-2024/home))
 - Oct 2023: Task Planning with Large Language Models (University of Michigan AI Seminar)
-- Jul 2022: [Few-Shot Subgoal Planning with Language Models](https://zoom.us/rec/play/LwTNI41ZDNC2R0gJYjU5C8mqKGraUfEuMEQqXQpup4c1WB32VRwo2rPws3iapTjr1ZXidrrDgsMXqvuz.OQ4YmKJTJzrLvKNS?autoplay=true&startTime=1657666905000) (Talk starts 49:16)
 - Aug 2019: [Zero-Shot Entity Linking by Reading Entity Descriptions](https://vimeo.com/384777050)
 - Feb 2019: [Ann Arbor Deep Learning Event](https://alxndrkalinin.github.io/a2-dlearn-4/)
 
