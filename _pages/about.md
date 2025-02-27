@@ -17,6 +17,10 @@ I am a Research Scientist at LG AI Research. I received my PhD from the Computer
 
 ### Selected Publications
 
+- **Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents.**   
+  *Yunseok Jang\*, Yeda Song\*, Sungryull Sohn, Lajanugen Logeswaran, Tiange Luo, Dong-Ki Kim, Kyunghoon Bae, Honglak Lee.*  
+  CVPR 2025
+
 - **Autoguide: Automated generation and selection of state-aware guidelines for large language model agents.** \[[paper](https://arxiv.org/pdf/2403.08978)\]  
   *Yao Fu, Dong-Ki Kim, Jaekyeom Kim, Sungryull Sohn, Lajanugen Logeswaran, Kyunghoon Bae, Honglak Lee.*  
   NeurIPS 2024
