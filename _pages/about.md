@@ -15,6 +15,11 @@ I am a Research Scientist at LG AI Research. I received my PhD from the Computer
 - Aug 2019: [Zero-Shot Entity Linking by Reading Entity Descriptions](https://vimeo.com/384777050)
 - Feb 2019: [Ann Arbor Deep Learning Event](https://alxndrkalinin.github.io/a2-dlearn-4/)
 
+### Preprints
+
+- **Visual Test-time Scaling for GUI Agent Grounding.** \[[paper](https://arxiv.org/pdf/2505.00684)\]
+  *Tiange Luo, Lajanugen Logeswaran, Justin Johnson, Honglak Lee.*
+  
 ### Selected Publications
 
 - **Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents.**   
