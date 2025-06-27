@@ -18,7 +18,7 @@ I am a Research Scientist at LG AI Research. I received my PhD from the Computer
 ### Selected Publications
 
 - **Visual Test-time Scaling for GUI Agent Grounding.** \[[paper](https://arxiv.org/pdf/2505.00684)\]  
-  *Tiange Luo, Lajanugen Logeswaran, Justin Johnson, Honglak Lee.*
+  *Tiange Luo, Lajanugen Logeswaran, Justin Johnson, Honglak Lee.*  
   ICCV 2025
 
 - **Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation.**  
