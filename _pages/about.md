@@ -17,13 +17,13 @@ I am a Research Scientist at LG AI Research. I received my PhD from the Computer
 
 ### Selected Publications
 
+- **Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation.**  
+  *Lajanugen Logeswaran, Jaekyeom Kim, Sungryull Sohn, Creighton Glasscock, Honglak Lee.*  
+  COLM 2025 (Also at ACL REALM Workshop 2025)
+
 - **Visual Test-time Scaling for GUI Agent Grounding.** \[[paper](https://arxiv.org/pdf/2505.00684)\]  
   *Tiange Luo, Lajanugen Logeswaran, Justin Johnson, Honglak Lee.*  
   ICCV 2025
-
-- **Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation.**  
-  *Lajanugen Logeswaran, Jaekyeom Kim, Sungryull Sohn, Creighton Glasscock, Honglak Lee.*  
-  ACL REALM Workshop 2025
 
 - **Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents.**   
   *Yunseok Jang\*, Yeda Song\*, Sungryull Sohn, Lajanugen Logeswaran, Tiange Luo, Dong-Ki Kim, Kyunghoon Bae, Honglak Lee.*  
