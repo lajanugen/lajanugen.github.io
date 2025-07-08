@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at LG AI Research. I received my PhD from the Computer Science Department at the University of Michigan, where I worked on topics including representation learning, learning from limited supervision and language grounding. More recently, I have been interested in enhancing the planning, reasoning and agent capabilities of language models.
+I am a Research Scientist at LG AI Research. I received my PhD from the Computer Science Department at the University of Michigan, where I worked on topics including representation learning, learning from limited supervision and language grounding. More recently, I have been interested in enhancing the planning, reasoning and agent capabilities of large language models and vision-language models.
 
 ### Talks
 - May 2024: Guiding Language Models to be Better Agents ([Frontiers of AI in Business and Society @ UIC](https://sites.google.com/uic.edu/ids-workshop-2024/home))
