@@ -25,7 +25,7 @@ I am a Research Scientist at LG AI Research. I received my PhD from the Computer
   *Tiange Luo, Lajanugen Logeswaran, Justin Johnson, Honglak Lee.*  
   ICCV 2025
 
-- **Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents.**   
+- **Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents.** \[[paper](https://arxiv.org/pdf/2505.12632)\]    
   *Yunseok Jang\*, Yeda Song\*, Sungryull Sohn, Lajanugen Logeswaran, Tiange Luo, Dong-Ki Kim, Kyunghoon Bae, Honglak Lee.*  
   CVPR 2025
 
