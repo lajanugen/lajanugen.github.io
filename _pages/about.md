@@ -9,12 +9,6 @@ redirect_from:
 
 I am a Research Scientist at LG AI Research. I received my PhD from the Computer Science Department at the University of Michigan, where I worked on topics including representation learning, learning from limited supervision and language grounding. More recently, I have been interested in enhancing the planning, reasoning and agent capabilities of large language models and vision-language models.
 
-### Talks
-- May 2024: Guiding Language Models to be Better Agents ([Frontiers of AI in Business and Society @ UIC](https://sites.google.com/uic.edu/ids-workshop-2024/home))
-- Oct 2023: Task Planning with Large Language Models (University of Michigan AI Seminar)
-- Aug 2019: [Zero-Shot Entity Linking by Reading Entity Descriptions](https://vimeo.com/384777050)
-- Feb 2019: [Ann Arbor Deep Learning Event](https://alxndrkalinin.github.io/a2-dlearn-4/)
-
 ### Selected Publications
 
 - **Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation.**  
@@ -72,6 +66,13 @@ I am a Research Scientist at LG AI Research. I received my PhD from the Computer
 - **An Efficient Framework for Learning Sentence Representations** \[[paper](https://openreview.net/pdf?id=rJvJXZb0W)\]  
   *Lajanugen Logeswaran, Honglak Lee*  
   ICLR 2018
+<!--
+### Talks
+- May 2024: Guiding Language Models to be Better Agents ([Frontiers of AI in Business and Society @ UIC](https://sites.google.com/uic.edu/ids-workshop-2024/home))
+- Oct 2023: Task Planning with Large Language Models (University of Michigan AI Seminar)
+- Aug 2019: [Zero-Shot Entity Linking by Reading Entity Descriptions](https://vimeo.com/384777050)
+- Feb 2019: [Ann Arbor Deep Learning Event](https://alxndrkalinin.github.io/a2-dlearn-4/)
+-->
 
 ### Professional Experience
 - Research Scientist, LG AI Research (Ann Arbor), Jul 2021 - Present
