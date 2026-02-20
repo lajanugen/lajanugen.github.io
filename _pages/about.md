@@ -11,7 +11,7 @@ I am a Research Scientist at LG AI Research. I received my PhD from the Computer
 
 ### Selected Publications
 
-- **Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation.**  
+- **Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation.** \[[paper](https://arxiv.org/pdf/2602.12544)\]  
   *Lajanugen Logeswaran, Jaekyeom Kim, Sungryull Sohn, Creighton Glasscock, Honglak Lee.*  
   COLM 2025 (Also at ACL REALM Workshop 2025)
 
