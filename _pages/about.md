@@ -50,11 +50,7 @@ I received my PhD in Computer Science from the University of Michigan. During my
 
 - **Few-shot Subgoal Planning with Language Models.** \[[paper](https://aclanthology.org/2022.naacl-main.402.pdf)\]  
   **Lajanugen Logeswaran**, Violet Fu, Moontae Lee, Honglak Lee.  
-  NAACL 2022. 
-
-- **Zero-Shot Entity Linking by Reading Entity Descriptions.** \[[paper](https://aclanthology.org/P19-1335.pdf)\]  
-  **Lajanugen Logeswaran**, Ming-Wei Chang, Kenton Lee, Kristina Toutanova, Jacob Devlin, Honglak Lee.  
-  ACL 2019. 
+  NAACL 2022.
 
 For a complete list of publications, please see my Google Scholar profile.
 
