@@ -25,49 +25,40 @@ My recent work focuses on building AI agents that can reason, plan, and act in w
 - **Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation.** \[[paper](https://arxiv.org/pdf/2602.12544)\]  
   **Lajanugen Logeswaran**, Jaekyeom Kim, Sungryull Sohn, Creighton Glasscock, Honglak Lee.  
   COLM 2025. Also at ACL REALM Workshop 2025.  
-  Scales web-agent training through automatic task generation and fine-grained evaluation.
 
 - **Visual Test-time Scaling for GUI Agent Grounding.** \[[paper](https://arxiv.org/pdf/2505.00684)\]  
   Tiange Luo, **Lajanugen Logeswaran**, Justin Johnson, Honglak Lee.  
   ICCV 2025.  
-  Studies test-time scaling for improving visual grounding in GUI agents.
 
 - **Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents.** \[[paper](https://arxiv.org/pdf/2505.12632)\]  
   Yunseok Jang\*, Yeda Song\*, Sungryull Sohn, **Lajanugen Logeswaran**, Tiange Luo, Dong-Ki Kim, Kyunghoon Bae, Honglak Lee.  
   CVPR 2025.  
-  Generates scalable datasets from videos for training mobile agents across platforms.
 
 - **AutoGuide: Automated Generation and Selection of State-Aware Guidelines for Large Language Model Agents.** \[[paper](https://arxiv.org/pdf/2403.08978)\]  
   Yao Fu, Dong-Ki Kim, Jaekyeom Kim, Sungryull Sohn, **Lajanugen Logeswaran**, Kyunghoon Bae, Honglak Lee.  
   NeurIPS 2024.  
-  Automatically generates and selects state-aware guidelines to improve LLM agents.
 
 - **Auto-Intent: Automated Intent Discovery and Self-Exploration for Large Language Model Web Agents.** \[[paper](https://arxiv.org/pdf/2410.22552)\]  
   Jaekyeom Kim, Dong-Ki Kim, **Lajanugen Logeswaran**, Sungryull Sohn, Honglak Lee.  
   Findings of EMNLP 2024.  
-  Enables web agents to discover intents and explore tasks automatically.
 
 - **Code Models are Zero-shot Precondition Reasoners.** \[[paper](https://arxiv.org/pdf/2311.09601.pdf)\]  
   **Lajanugen Logeswaran**, Sungryull Sohn, Yiwei Lyu, Anthony Zhe Liu, Dong-Ki Kim, Dongsub Shim, Moontae Lee, Honglak Lee.  
   NAACL 2024. Also at NeurIPS FMDM Workshop 2023.  
-  Shows that code models can perform zero-shot reasoning about action preconditions.
 
 - **Unsupervised Task Graph Generation from Instructional Video Transcripts.** \[[paper](https://aclanthology.org/2023.findings-acl.210.pdf)\]  
   **Lajanugen Logeswaran**, Sungryull Sohn, Yunseok Jang, Moontae Lee, Honglak Lee.  
   Findings of ACL 2023. Also at ACL WNU Workshop 2023.  
-  Induces task structure from instructional video transcripts without supervision.
 
 - **Few-shot Subgoal Planning with Language Models.** \[[paper](https://aclanthology.org/2022.naacl-main.402.pdf)\]  
   **Lajanugen Logeswaran**, Violet Fu, Moontae Lee, Honglak Lee.  
   NAACL 2022. Also at ACL CSRR Workshop 2022.  
-  Studies how language models can decompose complex tasks into subgoals.
 
 - **Zero-Shot Entity Linking by Reading Entity Descriptions.** \[[paper](https://aclanthology.org/P19-1335.pdf)\]  
   **Lajanugen Logeswaran**, Ming-Wei Chang, Kenton Lee, Kristina Toutanova, Jacob Devlin, Honglak Lee.  
   ACL 2019. Best Paper Nomination.  
-  Introduces a zero-shot approach to entity linking using entity descriptions.
 
-For a complete list of publications, please see my Google Scholar profile or CV.
+For a complete list of publications, please see my Google Scholar profile.
 
 ### Professional Experience
 
