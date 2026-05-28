@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at LG AI Research, where I work on building AI agents that can reason, plan, and act in digital environments. My recent research focuses on scalable training and evaluation for web, mobile, and GUI agents, visual grounding, and improving the planning and reasoning capabilities of large language models and vision-language models.
+I am a Research Scientist at LG AI Research, where I work on building AI agents that can reason, plan, and act in digital environments. My recent research focuses on scalable training and evaluation for GUI agents, visual grounding, and improving the planning and reasoning capabilities of large language models and vision-language models.
 
 I received my PhD in Computer Science from the University of Michigan. During my PhD, I worked on representation learning, learning from limited supervision, language grounding, and structured reasoning. Broadly, I am interested in building models that connect language, perception, knowledge, and action.
 
