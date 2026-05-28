@@ -26,7 +26,7 @@ I received my PhD in Computer Science from the University of Michigan. During my
 
 - **Visual Test-time Scaling for GUI Agent Grounding.** \[[paper](https://arxiv.org/pdf/2505.00684)\]  
   Tiange Luo, **Lajanugen Logeswaran**, Justin Johnson, Honglak Lee.  
-  ICCV 2025.  
+  ICCV 2025 (Spotlight).  
 
 - **Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents.** \[[paper](https://arxiv.org/pdf/2505.12632)\]  
   Yunseok Jang\*, Yeda Song\*, Sungryull Sohn, **Lajanugen Logeswaran**, Tiange Luo, Dong-Ki Kim, Kyunghoon Bae, Honglak Lee.  
