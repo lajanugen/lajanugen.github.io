@@ -24,7 +24,7 @@ My recent work focuses on building AI agents that can reason, plan, and act in w
 
 - **Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation.** \[[paper](https://arxiv.org/pdf/2602.12544)\]  
   **Lajanugen Logeswaran**, Jaekyeom Kim, Sungryull Sohn, Creighton Glasscock, Honglak Lee.  
-  COLM 2025. Also at ACL REALM Workshop 2025.  
+  COLM 2025.
 
 - **Visual Test-time Scaling for GUI Agent Grounding.** \[[paper](https://arxiv.org/pdf/2505.00684)\]  
   Tiange Luo, **Lajanugen Logeswaran**, Justin Johnson, Honglak Lee.  
@@ -44,19 +44,19 @@ My recent work focuses on building AI agents that can reason, plan, and act in w
 
 - **Code Models are Zero-shot Precondition Reasoners.** \[[paper](https://arxiv.org/pdf/2311.09601.pdf)\]  
   **Lajanugen Logeswaran**, Sungryull Sohn, Yiwei Lyu, Anthony Zhe Liu, Dong-Ki Kim, Dongsub Shim, Moontae Lee, Honglak Lee.  
-  NAACL 2024. Also at NeurIPS FMDM Workshop 2023.  
+  NAACL 2024.
 
 - **Unsupervised Task Graph Generation from Instructional Video Transcripts.** \[[paper](https://aclanthology.org/2023.findings-acl.210.pdf)\]  
   **Lajanugen Logeswaran**, Sungryull Sohn, Yunseok Jang, Moontae Lee, Honglak Lee.  
-  Findings of ACL 2023. Also at ACL WNU Workshop 2023.  
+  Findings of ACL 2023.
 
 - **Few-shot Subgoal Planning with Language Models.** \[[paper](https://aclanthology.org/2022.naacl-main.402.pdf)\]  
   **Lajanugen Logeswaran**, Violet Fu, Moontae Lee, Honglak Lee.  
-  NAACL 2022. Also at ACL CSRR Workshop 2022.  
+  NAACL 2022. 
 
 - **Zero-Shot Entity Linking by Reading Entity Descriptions.** \[[paper](https://aclanthology.org/P19-1335.pdf)\]  
   **Lajanugen Logeswaran**, Ming-Wei Chang, Kenton Lee, Kristina Toutanova, Jacob Devlin, Honglak Lee.  
-  ACL 2019. Best Paper Nomination.  
+  ACL 2019. 
 
 For a complete list of publications, please see my Google Scholar profile.
 
