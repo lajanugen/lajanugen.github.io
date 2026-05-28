@@ -20,8 +20,6 @@ I received my PhD in Computer Science from the University of Michigan. During my
 
 ### Selected Publications
 
-My recent work focuses on building AI agents that can reason, plan, and act in web, mobile, and GUI environments.
-
 - **Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation.** \[[paper](https://arxiv.org/pdf/2602.12544)\]  
   **Lajanugen Logeswaran**, Jaekyeom Kim, Sungryull Sohn, Creighton Glasscock, Honglak Lee.  
   COLM 2025.
@@ -69,9 +67,6 @@ For a complete list of publications, please see my Google Scholar profile.
 
 ### Awards & Honors
 
-- NAACL Social Impact Award, 2024
 - ACL Best Paper Nomination, 2019
-- 24th place, IEEEXtreme 24-hour Programming Competition, 2013
-- 3rd place, INexus International Robot Competition, 2012
 - Bronze Medal, 50th International Mathematical Olympiad, 2009
 - Gold Medal, Sri Lankan Mathematics Olympiad, 2007
