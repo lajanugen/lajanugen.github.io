@@ -63,6 +63,7 @@ For a complete list of publications, please see my Google Scholar profile.
 
 ### Awards & Honors
 
-- ACL Best Paper Nomination, 2019
+- Social Impact Award, NAACL 2024
+- Best Paper Nomination, ACL 2019
 - Bronze Medal, 50th International Mathematical Olympiad, 2009
 - Gold Medal, Sri Lankan Mathematics Olympiad, 2007
