@@ -28,23 +28,20 @@ I received my PhD in Computer Science from the University of Michigan. During my
 
 - **AutoGuide: Automated Generation and Selection of State-Aware Guidelines for Large Language Model Agents.** \[[paper](https://arxiv.org/pdf/2403.08978)\]  
   Yao Fu, Dong-Ki Kim, Jaekyeom Kim, Sungryull Sohn, **Lajanugen Logeswaran**, Kyunghoon Bae, Honglak Lee.  
-  NeurIPS 2024.  
-
-- **Auto-Intent: Automated Intent Discovery and Self-Exploration for Large Language Model Web Agents.** \[[paper](https://arxiv.org/pdf/2410.22552)\]  
-  Jaekyeom Kim, Dong-Ki Kim, **Lajanugen Logeswaran**, Sungryull Sohn, Honglak Lee.  
-  Findings of EMNLP 2024.  
-
-- **Code Models are Zero-shot Precondition Reasoners.** \[[paper](https://arxiv.org/pdf/2311.09601.pdf)\]  
-  **Lajanugen Logeswaran**, Sungryull Sohn, Yiwei Lyu, Anthony Zhe Liu, Dong-Ki Kim, Dongsub Shim, Moontae Lee, Honglak Lee.  
-  NAACL 2024.
-
-- **Unsupervised Task Graph Generation from Instructional Video Transcripts.** \[[paper](https://aclanthology.org/2023.findings-acl.210.pdf)\]  
-  **Lajanugen Logeswaran**, Sungryull Sohn, Yunseok Jang, Moontae Lee, Honglak Lee.  
-  Findings of ACL 2023.
+  NeurIPS 2024.
 
 - **Few-shot Subgoal Planning with Language Models.** \[[paper](https://aclanthology.org/2022.naacl-main.402.pdf)\]  
   **Lajanugen Logeswaran**, Violet Fu, Moontae Lee, Honglak Lee.  
   NAACL 2022.
+
+- **An Efficient Framework for Learning Sentence Representations** \[[paper](https://arxiv.org/pdf/1803.02893)\]
+  **Lajanugen Logeswaran**, Honglak Lee.
+  ICLR 2018.
+
+- **Generative Adversarial Text to Image Synthesis** \[[paper](https://proceedings.mlr.press/v48/reed16.pdf)\]
+  Scott Reed, Zeynep Akata, Xinchen Yan, **Lajanugen Logeswaran**, Bernt Schiele, Honglak Lee.
+  ICML 2016.
+
 
 For a complete list of publications, please see my Google Scholar profile.
 
