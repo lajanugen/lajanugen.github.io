@@ -14,34 +14,33 @@ I received my PhD in Computer Science from the University of Michigan. During my
 
 ### Selected Publications
 
-- **Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation.** \[[paper](https://arxiv.org/pdf/2602.12544)\]  
-  **Lajanugen Logeswaran**, Jaekyeom Kim, Sungryull Sohn, Creighton Glasscock, Honglak Lee.  
-  COLM 2025.
+- **Process Reward Models That Think** \[[paper](https://arxiv.org/pdf/2504.16828)\]  
+  Muhammad Khalifa, Rishabh Agarwal, **Lajanugen Logeswaran**, Jaekyeom Kim, Hao Peng, Moontae Lee, Honglak Lee, Lu Wang  
+  TMLR 2026
 
-- **Visual Test-time Scaling for GUI Agent Grounding.** \[[paper](https://arxiv.org/pdf/2505.00684)\]  
-  Tiange Luo, **Lajanugen Logeswaran**, Justin Johnson, Honglak Lee.  
-  ICCV 2025 (Spotlight).  
+- **Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation** \[[paper](https://arxiv.org/pdf/2602.12544)\]  
+  **Lajanugen Logeswaran**, Jaekyeom Kim, Sungryull Sohn, Creighton Glasscock, Honglak Lee  
+  COLM 2025
 
-- **Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents.** \[[paper](https://arxiv.org/pdf/2505.12632)\]  
-  Yunseok Jang\*, Yeda Song\*, Sungryull Sohn, **Lajanugen Logeswaran**, Tiange Luo, Dong-Ki Kim, Kyunghoon Bae, Honglak Lee.  
-  CVPR 2025.  
+- **Visual Test-time Scaling for GUI Agent Grounding** \[[paper](https://arxiv.org/pdf/2505.00684)\]  
+  Tiange Luo, **Lajanugen Logeswaran**, Justin Johnson, Honglak Lee  
+  ICCV 2025 (Spotlight)
 
-- **AutoGuide: Automated Generation and Selection of State-Aware Guidelines for Large Language Model Agents.** \[[paper](https://arxiv.org/pdf/2403.08978)\]  
-  Yao Fu, Dong-Ki Kim, Jaekyeom Kim, Sungryull Sohn, **Lajanugen Logeswaran**, Kyunghoon Bae, Honglak Lee.  
-  NeurIPS 2024.
+- **Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents** \[[paper](https://arxiv.org/pdf/2505.12632)\]  
+  Yunseok Jang\*, Yeda Song\*, Sungryull Sohn, **Lajanugen Logeswaran**, Tiange Luo, Dong-Ki Kim, Kyunghoon Bae, Honglak Lee  
+  CVPR 2025  
 
-- **Few-shot Subgoal Planning with Language Models.** \[[paper](https://aclanthology.org/2022.naacl-main.402.pdf)\]  
-  **Lajanugen Logeswaran**, Violet Fu, Moontae Lee, Honglak Lee.  
-  NAACL 2022.
+- **AutoGuide: Automated Generation and Selection of State-Aware Guidelines for Large Language Model Agents** \[[paper](https://arxiv.org/pdf/2403.08978)\]  
+  Yao Fu, Dong-Ki Kim, Jaekyeom Kim, Sungryull Sohn, **Lajanugen Logeswaran**, Kyunghoon Bae, Honglak Lee  
+  NeurIPS 2024
+
+- **Few-shot Subgoal Planning with Language Models** \[[paper](https://aclanthology.org/2022.naacl-main.402.pdf)\]  
+  **Lajanugen Logeswaran**, Violet Fu, Moontae Lee, Honglak Lee  
+  NAACL 2022
 
 - **An Efficient Framework for Learning Sentence Representations** \[[paper](https://arxiv.org/pdf/1803.02893)\]  
-  **Lajanugen Logeswaran**, Honglak Lee.  
-  ICLR 2018.
-
-- **Generative Adversarial Text to Image Synthesis** \[[paper](https://proceedings.mlr.press/v48/reed16.pdf)\]  
-  Scott Reed, Zeynep Akata, Xinchen Yan, **Lajanugen Logeswaran**, Bernt Schiele, Honglak Lee.  
-  ICML 2016.
-
+  **Lajanugen Logeswaran**, Honglak Lee  
+  ICLR 2018
 
 For a complete list of publications, please see my Google Scholar profile.
 
