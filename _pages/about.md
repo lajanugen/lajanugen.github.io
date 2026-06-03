@@ -11,6 +11,7 @@ I am a Research Scientist at LG AI Research, where I work on building AI agents 
 
 I received my PhD in Computer Science from the University of Michigan. During my PhD, I worked on representation learning, learning from limited supervision, language grounding, and structured reasoning. Broadly, I am interested in building models that connect language, perception, knowledge, and action.
 
+Interests: Agents, multimodality, planning and reasoning
 
 ### Selected Publications
 
