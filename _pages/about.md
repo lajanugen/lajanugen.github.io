@@ -34,12 +34,12 @@ I received my PhD in Computer Science from the University of Michigan. During my
   **Lajanugen Logeswaran**, Violet Fu, Moontae Lee, Honglak Lee.  
   NAACL 2022.
 
-- **An Efficient Framework for Learning Sentence Representations** \[[paper](https://arxiv.org/pdf/1803.02893)\]
-  **Lajanugen Logeswaran**, Honglak Lee.
+- **An Efficient Framework for Learning Sentence Representations** \[[paper](https://arxiv.org/pdf/1803.02893)\]  
+  **Lajanugen Logeswaran**, Honglak Lee.  
   ICLR 2018.
 
-- **Generative Adversarial Text to Image Synthesis** \[[paper](https://proceedings.mlr.press/v48/reed16.pdf)\]
-  Scott Reed, Zeynep Akata, Xinchen Yan, **Lajanugen Logeswaran**, Bernt Schiele, Honglak Lee.
+- **Generative Adversarial Text to Image Synthesis** \[[paper](https://proceedings.mlr.press/v48/reed16.pdf)\]  
+  Scott Reed, Zeynep Akata, Xinchen Yan, **Lajanugen Logeswaran**, Bernt Schiele, Honglak Lee.  
   ICML 2016.
 
 
