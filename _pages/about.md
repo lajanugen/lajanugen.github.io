@@ -15,6 +15,8 @@ Interests: Agents, multimodality, planning and reasoning
 
 ### Selected Publications
 
+For a complete list of publications, please see my Google Scholar profile.
+
 - **Process Reward Models That Think** \[[paper](https://arxiv.org/pdf/2504.16828)\]  
   Muhammad Khalifa, Rishabh Agarwal, **Lajanugen Logeswaran**, Jaekyeom Kim, Hao Peng, Moontae Lee, Honglak Lee, Lu Wang  
   TMLR 2026
@@ -42,8 +44,6 @@ Interests: Agents, multimodality, planning and reasoning
 - **An Efficient Framework for Learning Sentence Representations** \[[paper](https://arxiv.org/pdf/1803.02893)\]  
   **Lajanugen Logeswaran**, Honglak Lee  
   ICLR 2018
-
-For a complete list of publications, please see my Google Scholar profile.
 
 ### Professional Experience
 
