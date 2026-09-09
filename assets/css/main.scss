@@ -149,14 +149,34 @@ $accent: #2b59d6;
     min-width: 0;
   }
 
-  /* Dates sit flush right, as they do in the LaTeX CV. */
+  /* Secondary lines within an entry: institution, advisor. */
+  .cv-sub {
+    color: $gray;
+    font-size: 0.94em;
+  }
+
+  /* Dates sit in a fixed right-hand column, mirroring \daterange in the
+     LaTeX CV: start right-aligned, end left-aligned, so the dashes line
+     up down the page. A bare year simply right-aligns in the column. */
   .cv-date {
     flex: 0 0 auto;
-    padding-left: 1.5em;
+    width: 10.4em;
+    padding-left: 1em;
+    text-align: right;
     color: $gray;
     white-space: nowrap;
     font-variant-numeric: tabular-nums;
   }
+
+  .d-from,
+  .d-to {
+    display: inline-block;
+    width: 4.9em;
+  }
+
+  .d-from { text-align: right; }
+  .d-to   { text-align: left; }
+  .d-sep  { padding: 0 0.3em; }
 
   /* Awards use a glyph in place of a logo, in the same 28px column so
      the three list sections share one text alignment. */

@@ -83,17 +83,17 @@ For a complete list of publications, please see my Google Scholar profile.
 ### Professional Experience
 
 <ul class="cv-list">
-  <li><img class="cv-logo" src="/images/brand/lg.png" alt=""><span class="cv-text">Research Scientist, LG AI Research, Ann Arbor</span><span class="cv-date">Jul 2021 – Present</span></li>
-  <li><img class="cv-logo" src="/images/brand/facebook.png" alt=""><span class="cv-text">Research Intern, Facebook AI Research, New York</span><span class="cv-date">May 2019 – Aug 2019</span></li>
-  <li><img class="cv-logo" src="/images/brand/google.png" alt=""><span class="cv-text">Research Intern, Google Research, Seattle</span><span class="cv-date">May 2018 – Jan 2019</span></li>
-  <li><img class="cv-logo" src="/images/brand/google.png" alt=""><span class="cv-text">Research Intern, Google Brain, Mountain View</span><span class="cv-date">Feb 2017 – Jun 2017</span></li>
+  <li><img class="cv-logo" src="/images/brand/lg.png" alt=""><span class="cv-text">Research Scientist, LG AI Research, Ann Arbor</span><span class="cv-date"><span class="d-from">Jul 2021</span><span class="d-sep">–</span><span class="d-to">Present</span></span></li>
+  <li><img class="cv-logo" src="/images/brand/facebook.png" alt=""><span class="cv-text">Research Intern, Facebook AI Research, New York</span><span class="cv-date"><span class="d-from">May 2019</span><span class="d-sep">–</span><span class="d-to">Aug 2019</span></span></li>
+  <li><img class="cv-logo" src="/images/brand/google.png" alt=""><span class="cv-text">Research Intern, Google Research, Seattle</span><span class="cv-date"><span class="d-from">May 2018</span><span class="d-sep">–</span><span class="d-to">Jan 2019</span></span></li>
+  <li><img class="cv-logo" src="/images/brand/google.png" alt=""><span class="cv-text">Research Intern, Google Brain, Mountain View</span><span class="cv-date"><span class="d-from">Feb 2017</span><span class="d-sep">–</span><span class="d-to">Jun 2017</span></span></li>
 </ul>
 
 ### Education
 
 <ul class="cv-list">
-  <li><img class="cv-logo" src="/images/brand/umich.png" alt=""><span class="cv-text">PhD, Computer Science &amp; Engineering, University of Michigan (Advisor: Honglak Lee)</span><span class="cv-date">2015 – 2021</span></li>
-  <li><img class="cv-logo" src="/images/brand/moratuwa.png" alt=""><span class="cv-text">BSc, Electronic &amp; Telecommunication Engineering, University of Moratuwa, Sri Lanka</span><span class="cv-date">2009 – 2014</span></li>
+  <li><img class="cv-logo" src="/images/brand/umich.png" alt=""><span class="cv-text">PhD, Computer Science &amp; Engineering<br><span class="cv-sub">University of Michigan</span><br><span class="cv-sub">Advisor: Honglak Lee</span></span><span class="cv-date"><span class="d-from">2015</span><span class="d-sep">–</span><span class="d-to">2021</span></span></li>
+  <li><img class="cv-logo" src="/images/brand/moratuwa.png" alt=""><span class="cv-text">BSc, Electronic &amp; Telecommunication Engineering<br><span class="cv-sub">University of Moratuwa, Sri Lanka</span></span><span class="cv-date"><span class="d-from">2009</span><span class="d-sep">–</span><span class="d-to">2014</span></span></li>
 </ul>
 
 ### Awards &amp; Honors
