@@ -48,6 +48,14 @@ For a complete list of publications, please see my Google Scholar profile.
   Yunxiang Zhang, Muhammad Khalifa, Shitanshu Bhushan, Grant D. Murphy, **Lajanugen Logeswaran**, Jaekyeom Kim, Moontae Lee, Honglak Lee, Lu Wang  
   NeurIPS 2025 Datasets & Benchmarks
 
+- **Small Language Models Need Strong Verifiers to Self-Correct Reasoning** \[[paper](https://arxiv.org/pdf/2404.17140)\]  
+  Yunxiang Zhang, Muhammad Khalifa, **Lajanugen Logeswaran**, Jaekyeom Kim, Moontae Lee, Honglak Lee, Lu Wang  
+  ACL Findings 2024
+
+- **GRACE: Discriminator-Guided Chain-of-Thought Reasoning** \[[paper](https://aclanthology.org/2023.findings-emnlp.1022.pdf)\]  
+  Muhammad Khalifa, **Lajanugen Logeswaran**, Moontae Lee, Honglak Lee, Lu Wang  
+  EMNLP Findings 2023
+
 #### Planning and reasoning
 
 - **AutoGuide: Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents** \[[paper](https://arxiv.org/pdf/2403.08978)\]  
@@ -55,10 +63,18 @@ For a complete list of publications, please see my Google Scholar profile.
   NeurIPS 2024
 
 - **Few-shot Subgoal Planning with Language Models** \[[paper](https://aclanthology.org/2022.naacl-main.402.pdf)\]  
-  **Lajanugen Logeswaran**, Violet Fu, Moontae Lee, Honglak Lee  
+  **Lajanugen Logeswaran**, Yao Fu, Moontae Lee, Honglak Lee  
   NAACL 2022
 
-#### Earlier work
+#### Unsupervised and few-shot learning
+
+- **Zero-Shot Entity Linking by Reading Entity Descriptions** \[[paper](https://aclanthology.org/P19-1335.pdf)\]  
+  **Lajanugen Logeswaran**, Ming-Wei Chang, Kenton Lee, Kristina Toutanova, Jacob Devlin, Honglak Lee  
+  ACL 2019 (**Best Paper Nomination**)
+
+- **Content Preserving Text Generation with Attribute Controls** \[[paper](https://arxiv.org/pdf/1811.01135)\]  
+  **Lajanugen Logeswaran**, Honglak Lee, Samy Bengio  
+  NeurIPS 2018
 
 - **An Efficient Framework for Learning Sentence Representations** \[[paper](https://arxiv.org/pdf/1803.02893)\]  
   **Lajanugen Logeswaran**, Honglak Lee  
