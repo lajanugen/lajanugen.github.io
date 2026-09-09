@@ -160,18 +160,20 @@ $accent: #2b59d6;
      up down the page. A bare year simply right-aligns in the column. */
   .cv-date {
     flex: 0 0 auto;
-    width: 10.4em;
-    padding-left: 1em;
+    margin-left: 1em;
     text-align: right;
     color: $gray;
     white-space: nowrap;
     font-variant-numeric: tabular-nums;
   }
 
+  /* Sized by their contents rather than a fixed box: the theme sets
+     box-sizing: border-box globally, so a width plus padding would have
+     squeezed these two spans instead of reserving room for them. */
   .d-from,
   .d-to {
     display: inline-block;
-    width: 4.9em;
+    width: 4.6em;
   }
 
   .d-from { text-align: right; }
@@ -197,6 +199,8 @@ $accent: #2b59d6;
 
   .cv-list .cv-date {
     flex-basis: 100%;
+    margin-left: 0;
     padding-left: calc(28px + 0.85em);
+    text-align: left;
   }
 }
