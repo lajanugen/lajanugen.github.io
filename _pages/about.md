@@ -18,135 +18,67 @@ For a complete list of publications, please see my Google Scholar profile.
 
 #### Agent training: data and environments
 
-<ul class="pub-list">
-  <li class="pub">
-    <span class="pub-thumb pub-thumb--none"></span>
-    <div class="pub-body">
-      <span class="pub-title"><strong>ScreenTutor: Learning Computer-Use Agents from Unlabeled Tutorial Videos</strong> [<a href="https://openreview.net/forum?id=KBlvLk4DBF">paper</a>]</span><br>
-      Yeda Song, Ryan Kwon, Ruijie Chen, Jaekyeom Kim, <strong>Lajanugen Logeswaran</strong>, Tiange Luo, Sungryull Sohn, Honglak Lee<br>
-      <span class="pub-venue">COLM 2026 Lifelong Agents Workshop</span>
-    </div>
-  </li>
-  <li class="pub">
-    <img class="pub-thumb" src="/images/papers/webagent.png" alt="">
-    <div class="pub-body">
-      <span class="pub-title"><strong>Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation</strong> [<a href="https://arxiv.org/pdf/2602.12544">paper</a>]</span><br>
-      <strong>Lajanugen Logeswaran</strong>, Jaekyeom Kim, Sungryull Sohn, Creighton Glasscock, Honglak Lee<br>
-      <span class="pub-venue">COLM 2025</span>
-    </div>
-  </li>
-  <li class="pub">
-    <img class="pub-thumb" src="/images/papers/gui-grounding.png" alt="">
-    <div class="pub-body">
-      <span class="pub-title"><strong>Visual Test-time Scaling for GUI Agent Grounding</strong> [<a href="https://arxiv.org/pdf/2505.00684">paper</a>]</span><br>
-      Tiange Luo, <strong>Lajanugen Logeswaran</strong>, Justin Johnson, Honglak Lee<br>
-      <span class="pub-venue">ICCV 2025 (Spotlight)</span>
-    </div>
-  </li>
-  <li class="pub">
-    <img class="pub-thumb" src="/images/papers/video2dataset.png" alt="">
-    <div class="pub-body">
-      <span class="pub-title"><strong>Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents</strong> [<a href="https://arxiv.org/pdf/2505.12632">paper</a>]</span><br>
-      Yunseok Jang*, Yeda Song*, Sungryull Sohn, <strong>Lajanugen Logeswaran</strong>, Tiange Luo, Dong-Ki Kim, Kyunghoon Bae, Honglak Lee<br>
-      <span class="pub-venue">CVPR 2025</span>
-    </div>
-  </li>
-</ul>
+- **ScreenTutor: Learning Computer-Use Agents from Unlabeled Tutorial Videos** \[[paper](https://openreview.net/forum?id=KBlvLk4DBF)\]  
+  Yeda Song, Ryan Kwon, Ruijie Chen, Jaekyeom Kim, **Lajanugen Logeswaran**, Tiange Luo, Sungryull Sohn, Honglak Lee  
+  COLM 2026 Lifelong Agents Workshop
+
+- **Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation** \[[paper](https://arxiv.org/pdf/2602.12544)\]  
+  **Lajanugen Logeswaran**, Jaekyeom Kim, Sungryull Sohn, Creighton Glasscock, Honglak Lee  
+  COLM 2025
+
+- **Visual Test-time Scaling for GUI Agent Grounding** \[[paper](https://arxiv.org/pdf/2505.00684)\]  
+  Tiange Luo, **Lajanugen Logeswaran**, Justin Johnson, Honglak Lee  
+  ICCV 2025 (Spotlight)
+
+- **Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents** \[[paper](https://arxiv.org/pdf/2505.12632)\]  
+  Yunseok Jang\*, Yeda Song\*, Sungryull Sohn, **Lajanugen Logeswaran**, Tiange Luo, Dong-Ki Kim, Kyunghoon Bae, Honglak Lee  
+  CVPR 2025
 
 #### Evaluation, verification and reward modeling
 
-<ul class="pub-list">
-  <li class="pub">
-    <img class="pub-thumb" src="/images/papers/gaming-judge.png" alt="">
-    <div class="pub-body">
-      <span class="pub-title"><strong>Gaming the Judge: Unfaithful Chain-of-Thought Can Undermine Agent Evaluation</strong> [<a href="https://arxiv.org/pdf/2601.14691">paper</a>]</span><br>
-      Muhammad Khalifa, <strong>Lajanugen Logeswaran</strong>, Jaekyeom Kim, Sungryull Sohn, Yunxiang Zhang, Moontae Lee, Hao Peng, Lu Wang, Honglak Lee<br>
-      <span class="pub-venue">EMNLP Findings 2026</span>
-    </div>
-  </li>
-  <li class="pub">
-    <img class="pub-thumb" src="/images/papers/prm.png" alt="">
-    <div class="pub-body">
-      <span class="pub-title"><strong>Process Reward Models That Think</strong> [<a href="https://arxiv.org/pdf/2504.16828">paper</a>]</span><br>
-      Muhammad Khalifa, Rishabh Agarwal, <strong>Lajanugen Logeswaran</strong>, Jaekyeom Kim, Hao Peng, Moontae Lee, Honglak Lee, Lu Wang<br>
-      <span class="pub-venue">TMLR 2026</span>
-    </div>
-  </li>
-  <li class="pub">
-    <img class="pub-thumb" src="/images/papers/mlrc-bench.png" alt="">
-    <div class="pub-body">
-      <span class="pub-title"><strong>MLRC-Bench: Can Language Agents Solve Machine Learning Research Challenges?</strong> [<a href="https://arxiv.org/pdf/2504.09702">paper</a>]</span><br>
-      Yunxiang Zhang, Muhammad Khalifa, Shitanshu Bhushan, Grant D. Murphy, <strong>Lajanugen Logeswaran</strong>, Jaekyeom Kim, Moontae Lee, Honglak Lee, Lu Wang<br>
-      <span class="pub-venue">NeurIPS 2025 Datasets & Benchmarks</span>
-    </div>
-  </li>
-  <li class="pub">
-    <img class="pub-thumb" src="/images/papers/verifiers.png" alt="">
-    <div class="pub-body">
-      <span class="pub-title"><strong>Small Language Models Need Strong Verifiers to Self-Correct Reasoning</strong> [<a href="https://arxiv.org/pdf/2404.17140">paper</a>]</span><br>
-      Yunxiang Zhang, Muhammad Khalifa, <strong>Lajanugen Logeswaran</strong>, Jaekyeom Kim, Moontae Lee, Honglak Lee, Lu Wang<br>
-      <span class="pub-venue">ACL Findings 2024</span>
-    </div>
-  </li>
-  <li class="pub">
-    <img class="pub-thumb" src="/images/papers/grace.png" alt="">
-    <div class="pub-body">
-      <span class="pub-title"><strong>GRACE: Discriminator-Guided Chain-of-Thought Reasoning</strong> [<a href="https://aclanthology.org/2023.findings-emnlp.1022.pdf">paper</a>]</span><br>
-      Muhammad Khalifa, <strong>Lajanugen Logeswaran</strong>, Moontae Lee, Honglak Lee, Lu Wang<br>
-      <span class="pub-venue">EMNLP Findings 2023</span>
-    </div>
-  </li>
-</ul>
+- **Gaming the Judge: Unfaithful Chain-of-Thought Can Undermine Agent Evaluation** \[[paper](https://arxiv.org/pdf/2601.14691)\]  
+  Muhammad Khalifa, **Lajanugen Logeswaran**, Jaekyeom Kim, Sungryull Sohn, Yunxiang Zhang, Moontae Lee, Hao Peng, Lu Wang, Honglak Lee  
+  EMNLP Findings 2026
+
+- **Process Reward Models That Think** \[[paper](https://arxiv.org/pdf/2504.16828)\]  
+  Muhammad Khalifa, Rishabh Agarwal, **Lajanugen Logeswaran**, Jaekyeom Kim, Hao Peng, Moontae Lee, Honglak Lee, Lu Wang  
+  TMLR 2026
+
+- **MLRC-Bench: Can Language Agents Solve Machine Learning Research Challenges?** \[[paper](https://arxiv.org/pdf/2504.09702)\]  
+  Yunxiang Zhang, Muhammad Khalifa, Shitanshu Bhushan, Grant D. Murphy, **Lajanugen Logeswaran**, Jaekyeom Kim, Moontae Lee, Honglak Lee, Lu Wang  
+  NeurIPS 2025 Datasets & Benchmarks
+
+- **Small Language Models Need Strong Verifiers to Self-Correct Reasoning** \[[paper](https://arxiv.org/pdf/2404.17140)\]  
+  Yunxiang Zhang, Muhammad Khalifa, **Lajanugen Logeswaran**, Jaekyeom Kim, Moontae Lee, Honglak Lee, Lu Wang  
+  ACL Findings 2024
+
+- **GRACE: Discriminator-Guided Chain-of-Thought Reasoning** \[[paper](https://aclanthology.org/2023.findings-emnlp.1022.pdf)\]  
+  Muhammad Khalifa, **Lajanugen Logeswaran**, Moontae Lee, Honglak Lee, Lu Wang  
+  EMNLP Findings 2023
 
 #### Planning and reasoning
 
-<ul class="pub-list">
-  <li class="pub">
-    <img class="pub-thumb" src="/images/papers/autoguide.png" alt="">
-    <div class="pub-body">
-      <span class="pub-title"><strong>AutoGuide: Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents</strong> [<a href="https://arxiv.org/pdf/2403.08978">paper</a>]</span><br>
-      Yao Fu, Dong-Ki Kim, Jaekyeom Kim, Sungryull Sohn, <strong>Lajanugen Logeswaran</strong>, Kyunghoon Bae, Honglak Lee<br>
-      <span class="pub-venue">NeurIPS 2024</span>
-    </div>
-  </li>
-  <li class="pub">
-    <img class="pub-thumb" src="/images/papers/subgoal.png" alt="">
-    <div class="pub-body">
-      <span class="pub-title"><strong>Few-shot Subgoal Planning with Language Models</strong> [<a href="https://aclanthology.org/2022.naacl-main.402.pdf">paper</a>]</span><br>
-      <strong>Lajanugen Logeswaran</strong>, Yao Fu, Moontae Lee, Honglak Lee<br>
-      <span class="pub-venue">NAACL 2022</span>
-    </div>
-  </li>
-</ul>
+- **AutoGuide: Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents** \[[paper](https://arxiv.org/pdf/2403.08978)\]  
+  Yao Fu, Dong-Ki Kim, Jaekyeom Kim, Sungryull Sohn, **Lajanugen Logeswaran**, Kyunghoon Bae, Honglak Lee  
+  NeurIPS 2024
+
+- **Few-shot Subgoal Planning with Language Models** \[[paper](https://aclanthology.org/2022.naacl-main.402.pdf)\]  
+  **Lajanugen Logeswaran**, Yao Fu, Moontae Lee, Honglak Lee  
+  NAACL 2022
 
 #### Unsupervised and few-shot learning
 
-<ul class="pub-list">
-  <li class="pub">
-    <span class="pub-thumb pub-thumb--none"></span>
-    <div class="pub-body">
-      <span class="pub-title"><strong>Zero-Shot Entity Linking by Reading Entity Descriptions</strong> [<a href="https://aclanthology.org/P19-1335.pdf">paper</a>]</span><br>
-      <strong>Lajanugen Logeswaran</strong>, Ming-Wei Chang, Kenton Lee, Kristina Toutanova, Jacob Devlin, Honglak Lee<br>
-      <span class="pub-venue">ACL 2019 (<strong>Best Paper Nomination</strong>)</span>
-    </div>
-  </li>
-  <li class="pub">
-    <span class="pub-thumb pub-thumb--none"></span>
-    <div class="pub-body">
-      <span class="pub-title"><strong>Content Preserving Text Generation with Attribute Controls</strong> [<a href="https://arxiv.org/pdf/1811.01135">paper</a>]</span><br>
-      <strong>Lajanugen Logeswaran</strong>, Honglak Lee, Samy Bengio<br>
-      <span class="pub-venue">NeurIPS 2018</span>
-    </div>
-  </li>
-  <li class="pub">
-    <span class="pub-thumb pub-thumb--none"></span>
-    <div class="pub-body">
-      <span class="pub-title"><strong>An Efficient Framework for Learning Sentence Representations</strong> [<a href="https://arxiv.org/pdf/1803.02893">paper</a>]</span><br>
-      <strong>Lajanugen Logeswaran</strong>, Honglak Lee<br>
-      <span class="pub-venue">ICLR 2018</span>
-    </div>
-  </li>
-</ul>
+- **Zero-Shot Entity Linking by Reading Entity Descriptions** \[[paper](https://aclanthology.org/P19-1335.pdf)\]  
+  **Lajanugen Logeswaran**, Ming-Wei Chang, Kenton Lee, Kristina Toutanova, Jacob Devlin, Honglak Lee  
+  ACL 2019 (**Best Paper Nomination**)
+
+- **Content Preserving Text Generation with Attribute Controls** \[[paper](https://arxiv.org/pdf/1811.01135)\]  
+  **Lajanugen Logeswaran**, Honglak Lee, Samy Bengio  
+  NeurIPS 2018
+
+- **An Efficient Framework for Learning Sentence Representations** \[[paper](https://arxiv.org/pdf/1803.02893)\]  
+  **Lajanugen Logeswaran**, Honglak Lee  
+  ICLR 2018
 
 ### Professional Experience
 
