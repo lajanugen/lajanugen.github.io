@@ -56,3 +56,24 @@
     font-size: $type-size-4;
   }
 }
+
+/* Experience list with institution logos. */
+.cv-list {
+  margin-left: 0;
+  padding-left: 0;
+  list-style: none;
+
+  li {
+    display: flex;
+    align-items: center;
+    gap: 0.9em;
+    margin-bottom: 0.7em;
+  }
+
+  .cv-logo {
+    flex: 0 0 52px;
+    height: 26px;
+    object-fit: contain;
+    object-position: left center;
+  }
+}

@@ -82,10 +82,17 @@ For a complete list of publications, please see my Google Scholar profile.
 
 ### Professional Experience
 
-- Research Scientist, LG AI Research, Ann Arbor, Jul 2021 – Present
-- Research Intern, Facebook AI Research, New York, May 2019 – Aug 2019
-- Research Intern, Google Research, Seattle, May 2018 – Jan 2019
-- Research Intern, Google Brain, Mountain View, Feb 2017 – Jun 2017
+<ul class="cv-list">
+  <li><img class="cv-logo" src="/images/logos/lg.svg" alt="LG"><span>Research Scientist, LG AI Research, Ann Arbor, Jul 2021 – Present</span></li>
+  <li><img class="cv-logo" src="/images/logos/facebook.svg" alt="Facebook"><span>Research Intern, Facebook AI Research, New York, May 2019 – Aug 2019</span></li>
+  <li><img class="cv-logo" src="/images/logos/google.svg" alt="Google"><span>Research Intern, Google Research, Seattle, May 2018 – Jan 2019</span></li>
+  <li><img class="cv-logo" src="/images/logos/google.svg" alt="Google"><span>Research Intern, Google Brain, Mountain View, Feb 2017 – Jun 2017</span></li>
+</ul>
+
+### Education
+
+- PhD, Computer Science & Engineering, University of Michigan (Advisor: Honglak Lee), 2015 – 2021
+- BSc, Electronic & Telecommunication Engineering, University of Moratuwa, Sri Lanka, 2009 – 2014
 
 ### Awards & Honors
 
