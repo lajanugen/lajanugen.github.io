@@ -83,17 +83,17 @@ For a complete list of publications, please see my Google Scholar profile.
 ### Professional Experience
 
 <ul class="cv-list">
-  <li><img class="cv-logo" src="/images/logos/lg.svg" alt="LG"><span>Research Scientist, LG AI Research, Ann Arbor, Jul 2021 – Present</span></li>
-  <li><img class="cv-logo" src="/images/logos/facebook.svg" alt="Facebook"><span>Research Intern, Facebook AI Research, New York, May 2019 – Aug 2019</span></li>
-  <li><img class="cv-logo" src="/images/logos/google.svg" alt="Google"><span>Research Intern, Google Research, Seattle, May 2018 – Jan 2019</span></li>
-  <li><img class="cv-logo" src="/images/logos/google.svg" alt="Google"><span>Research Intern, Google Brain, Mountain View, Feb 2017 – Jun 2017</span></li>
+  <li><img class="cv-logo" src="/images/brand/lg.png" alt="LG"><span>Research Scientist, LG AI Research, Ann Arbor, Jul 2021 – Present</span></li>
+  <li><img class="cv-logo" src="/images/brand/facebook.png" alt="Facebook"><span>Research Intern, Facebook AI Research, New York, May 2019 – Aug 2019</span></li>
+  <li><img class="cv-logo" src="/images/brand/google.png" alt="Google"><span>Research Intern, Google Research, Seattle, May 2018 – Jan 2019</span></li>
+  <li><img class="cv-logo" src="/images/brand/google.png" alt="Google"><span>Research Intern, Google Brain, Mountain View, Feb 2017 – Jun 2017</span></li>
 </ul>
 
 ### Education
 
 <ul class="cv-list">
-  <li><img class="cv-logo" src="/images/logos/umich.png" alt="University of Michigan"><span>PhD, Computer Science &amp; Engineering, University of Michigan (Advisor: Honglak Lee), 2015 – 2021</span></li>
-  <li><img class="cv-logo" src="/images/logos/moratuwa.png" alt="University of Moratuwa"><span>BSc, Electronic &amp; Telecommunication Engineering, University of Moratuwa, Sri Lanka, 2009 – 2014</span></li>
+  <li><img class="cv-logo" src="/images/brand/umich.png" alt="University of Michigan"><span>PhD, Computer Science &amp; Engineering, University of Michigan (Advisor: Honglak Lee), 2015 – 2021</span></li>
+  <li><img class="cv-logo" src="/images/brand/moratuwa.png" alt="University of Moratuwa"><span>BSc, Electronic &amp; Telecommunication Engineering, University of Moratuwa, Sri Lanka, 2009 – 2014</span></li>
 </ul>
 
 ### Awards & Honors

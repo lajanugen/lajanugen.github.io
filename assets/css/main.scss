@@ -128,16 +128,24 @@ $accent: #2b59d6;
 
   li {
     display: flex;
-    align-items: center;
-    gap: 0.9em;
+    align-items: flex-start;
+    gap: 0.85em;
     margin-bottom: 0.7em;
   }
 
+  /* Aligned to the first line of text, so entries that wrap to two
+     lines keep the mark level with the ones that do not. */
   .cv-logo {
-    flex: 0 0 30px;
-    width: 30px;
-    height: 30px;
+    flex: 0 0 28px;
+    width: 28px;
+    height: 28px;
+    margin-top: -1px;
     object-fit: contain;
     object-position: center;
+  }
+
+  span {
+    flex: 1 1 auto;
+    min-width: 0;
   }
 }
