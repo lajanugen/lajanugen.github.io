@@ -11,11 +11,25 @@ I am a Research Scientist at LG AI Research, where I work on building AI agents 
 
 I received my PhD in Computer Science from the University of Michigan. During my PhD, I worked on representation learning, learning from limited supervision, language grounding, and structured reasoning. Broadly, I am interested in building models that connect language, perception, knowledge, and action.
 
-Interests: Agents, multimodality, planning and reasoning
-
 ### Selected Publications
 
 For a complete list of publications, please see my Google Scholar profile.
+
+#### Agent training: data and environments
+
+- **Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation** \[[paper](https://arxiv.org/pdf/2602.12544)\]  
+  **Lajanugen Logeswaran**, Jaekyeom Kim, Sungryull Sohn, Creighton Glasscock, Honglak Lee  
+  COLM 2025
+
+- **Visual Test-time Scaling for GUI Agent Grounding** \[[paper](https://arxiv.org/pdf/2505.00684)\]  
+  Tiange Luo, **Lajanugen Logeswaran**, Justin Johnson, Honglak Lee  
+  ICCV 2025 (Spotlight)
+
+- **Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents** \[[paper](https://arxiv.org/pdf/2505.12632)\]  
+  Yunseok Jang\*, Yeda Song\*, Sungryull Sohn, **Lajanugen Logeswaran**, Tiange Luo, Dong-Ki Kim, Kyunghoon Bae, Honglak Lee  
+  CVPR 2025
+
+#### Evaluation, verification and reward modeling
 
 - **Co-Evolving Actor-Conditioned Critics for Non-Verifiable Generation** \[[paper](https://arxiv.org/pdf/2608.30397)\]  
   Jinyoung Kim, Muhammad Khalifa, **Lajanugen Logeswaran**, Jaekyeom Kim, Moontae Lee, Honglak Lee, Lu Wang  
@@ -29,21 +43,11 @@ For a complete list of publications, please see my Google Scholar profile.
   Muhammad Khalifa, Rishabh Agarwal, **Lajanugen Logeswaran**, Jaekyeom Kim, Hao Peng, Moontae Lee, Honglak Lee, Lu Wang  
   TMLR 2026
 
-- **Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation** \[[paper](https://arxiv.org/pdf/2602.12544)\]  
-  **Lajanugen Logeswaran**, Jaekyeom Kim, Sungryull Sohn, Creighton Glasscock, Honglak Lee  
-  COLM 2025
-
 - **MLRC-Bench: Can Language Agents Solve Machine Learning Research Challenges?** \[[paper](https://arxiv.org/pdf/2504.09702)\]  
   Yunxiang Zhang, Muhammad Khalifa, Shitanshu Bhushan, Grant D. Murphy, **Lajanugen Logeswaran**, Jaekyeom Kim, Moontae Lee, Honglak Lee, Lu Wang  
   NeurIPS 2025 Datasets & Benchmarks
 
-- **Visual Test-time Scaling for GUI Agent Grounding** \[[paper](https://arxiv.org/pdf/2505.00684)\]  
-  Tiange Luo, **Lajanugen Logeswaran**, Justin Johnson, Honglak Lee  
-  ICCV 2025 (Spotlight)
-
-- **Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents** \[[paper](https://arxiv.org/pdf/2505.12632)\]  
-  Yunseok Jang\*, Yeda Song\*, Sungryull Sohn, **Lajanugen Logeswaran**, Tiange Luo, Dong-Ki Kim, Kyunghoon Bae, Honglak Lee  
-  CVPR 2025  
+#### Planning and reasoning
 
 - **AutoGuide: Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents** \[[paper](https://arxiv.org/pdf/2403.08978)\]  
   Yao Fu, Dong-Ki Kim, Jaekyeom Kim, Sungryull Sohn, **Lajanugen Logeswaran**, Kyunghoon Bae, Honglak Lee  
@@ -52,6 +56,8 @@ For a complete list of publications, please see my Google Scholar profile.
 - **Few-shot Subgoal Planning with Language Models** \[[paper](https://aclanthology.org/2022.naacl-main.402.pdf)\]  
   **Lajanugen Logeswaran**, Violet Fu, Moontae Lee, Honglak Lee  
   NAACL 2022
+
+#### Earlier work
 
 - **An Efficient Framework for Learning Sentence Representations** \[[paper](https://arxiv.org/pdf/1803.02893)\]  
   **Lajanugen Logeswaran**, Honglak Lee  
