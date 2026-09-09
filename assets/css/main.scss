@@ -134,9 +134,10 @@ $accent: #2b59d6;
   }
 
   .cv-logo {
-    flex: 0 0 52px;
-    height: 26px;
+    flex: 0 0 30px;
+    width: 30px;
+    height: 30px;
     object-fit: contain;
-    object-position: left center;
+    object-position: center;
   }
 }

@@ -91,8 +91,10 @@ For a complete list of publications, please see my Google Scholar profile.
 
 ### Education
 
-- PhD, Computer Science & Engineering, University of Michigan (Advisor: Honglak Lee), 2015 – 2021
-- BSc, Electronic & Telecommunication Engineering, University of Moratuwa, Sri Lanka, 2009 – 2014
+<ul class="cv-list">
+  <li><img class="cv-logo" src="/images/logos/umich.png" alt="University of Michigan"><span>PhD, Computer Science &amp; Engineering, University of Michigan (Advisor: Honglak Lee), 2015 – 2021</span></li>
+  <li><img class="cv-logo" src="/images/logos/moratuwa.png" alt="University of Moratuwa"><span>BSc, Electronic &amp; Telecommunication Engineering, University of Moratuwa, Sri Lanka, 2009 – 2014</span></li>
+</ul>
 
 ### Awards & Honors
 
