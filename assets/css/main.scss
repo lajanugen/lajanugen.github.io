@@ -39,22 +39,85 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-/* Heading scale for page content.
-   The theme sizes h3 at $type-size-5 (1em) and h4 at $type-size-6 (0.75em),
-   so section titles matched body text and group titles were smaller than it.
-   Restore a legible 25 / 20 / 16px hierarchy and rule off each section. */
+/* ---------------------------------------------------------------
+   Site typography and accents.
+   The theme ships every heading in the body sans at $type-size-5/6, so
+   section titles matched body text and group titles were smaller than
+   it. Headings now use the serif stack with a real scale, and venues
+   render as badges so the publication list carries some colour of its
+   own.
+   --------------------------------------------------------------- */
+
+$accent: #2b59d6;
+
+/* The layout always emits .page__title; this page has no title set. */
+.page__title:empty {
+  display: none;
+}
+
 .page__content {
+
+  h1 {
+    margin: 0 0 0.55em;
+    font-size: 2.4em;
+    line-height: 1.08;
+    font-weight: 600;
+    letter-spacing: -0.015em;
+  }
+
   h3 {
-    margin: 2.25em 0 0.75em;
+    margin: 2.5em 0 0.75em;
     padding-bottom: 0.3em;
     border-bottom: 1px solid $border-color;
     font-size: $type-size-3;
+    font-weight: 600;
+    letter-spacing: -0.01em;
   }
 
   h4 {
-    margin: 1.75em 0 0.6em;
-    font-size: $type-size-4;
+    margin: 2em 0 0.9em;
+    font-family: $sans-serif;
+    font-size: 0.78em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
   }
+
+  /* Publication groups: each h4 is followed by its list. */
+  h4 + ul {
+    margin-left: 0;
+    padding-left: 0;
+    list-style: none;
+
+    > li {
+      margin-bottom: 1.1em;
+      padding-left: 15px;
+      border-left: 2px solid $border-color;
+      transition: border-color 0.15s ease;
+
+      &:hover { border-left-color: $accent; }
+    }
+  }
+}
+
+/* Venue badges. */
+.v {
+  display: inline-block;
+  margin-top: 4px;
+  padding: 1.5px 10px;
+  border: 1px solid #dde4fb;
+  border-radius: 999px;
+  background: #eef2fe;
+  color: $accent;
+  font-size: 0.78em;
+  font-weight: 600;
+  line-height: 1.6;
+}
+
+.v--hl {
+  border-color: #fcd9a4;
+  background: #fdf3e2;
+  color: #92400e;
 }
 
 /* Experience list with institution logos. */
