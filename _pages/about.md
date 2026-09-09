@@ -62,15 +62,11 @@ For a complete list of publications, please see my Google Scholar profile.
 
 - **MLRC-Bench: Can Language Agents Solve Machine Learning Research Challenges?** \[[paper](https://arxiv.org/pdf/2504.09702)\]  
   Yunxiang Zhang, Muhammad Khalifa, Shitanshu Bhushan, Grant D. Murphy, **Lajanugen Logeswaran**, Jaekyeom Kim, Moontae Lee, Honglak Lee, Lu Wang  
-  <span class="v">NeurIPS 2025 Datasets & Benchmarks</span>
+  <span class="v">NeurIPS 2025</span>
 
 - **Small Language Models Need Strong Verifiers to Self-Correct Reasoning** \[[paper](https://arxiv.org/pdf/2404.17140)\]  
   Yunxiang Zhang, Muhammad Khalifa, **Lajanugen Logeswaran**, Jaekyeom Kim, Moontae Lee, Honglak Lee, Lu Wang  
   <span class="v">ACL Findings 2024</span>
-
-- **GRACE: Discriminator-Guided Chain-of-Thought Reasoning** \[[paper](https://aclanthology.org/2023.findings-emnlp.1022.pdf)\]  
-  Muhammad Khalifa, **Lajanugen Logeswaran**, Moontae Lee, Honglak Lee, Lu Wang  
-  <span class="v">EMNLP Findings 2023</span>
 
 #### Planning and reasoning
 
