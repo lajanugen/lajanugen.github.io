@@ -12,6 +12,22 @@ I am a Research Scientist at LG AI Research, where I work on building AI agents 
 
 I received my PhD in Computer Science from the University of Michigan. During my PhD, I worked on representation learning, learning from limited supervision, language grounding, and structured reasoning. Broadly, I am interested in building models that connect language, perception, knowledge, and action.
 
+### Professional Experience
+
+<ul class="cv-list">
+  <li><img class="cv-logo" src="/images/brand/lg.png" alt=""><span class="cv-text">Research Scientist, LG AI Research, Ann Arbor</span><span class="cv-date"><span class="d-from">Jul 2021</span><span class="d-sep">–</span><span class="d-to">Present</span></span></li>
+  <li><img class="cv-logo" src="/images/brand/facebook.png" alt=""><span class="cv-text">Research Intern, Facebook AI Research, New York</span><span class="cv-date"><span class="d-from">May 2019</span><span class="d-sep">–</span><span class="d-to">Aug 2019</span></span></li>
+  <li><img class="cv-logo" src="/images/brand/google.png" alt=""><span class="cv-text">Research Intern, Google Research, Seattle</span><span class="cv-date"><span class="d-from">May 2018</span><span class="d-sep">–</span><span class="d-to">Jan 2019</span></span></li>
+  <li><img class="cv-logo" src="/images/brand/google.png" alt=""><span class="cv-text">Research Intern, Google Brain, Mountain View</span><span class="cv-date"><span class="d-from">Feb 2017</span><span class="d-sep">–</span><span class="d-to">Jun 2017</span></span></li>
+</ul>
+
+### Education
+
+<ul class="cv-list">
+  <li><img class="cv-logo" src="/images/brand/umich.png" alt=""><span class="cv-text">PhD, Computer Science &amp; Engineering<br><span class="cv-sub">University of Michigan</span><br><span class="cv-sub">Advisor: Honglak Lee</span></span><span class="cv-date"><span class="d-from">2015</span><span class="d-sep">–</span><span class="d-to">2021</span></span></li>
+  <li><img class="cv-logo" src="/images/brand/moratuwa.png" alt=""><span class="cv-text">BSc, Electronic &amp; Telecommunication Engineering<br><span class="cv-sub">University of Moratuwa, Sri Lanka</span></span><span class="cv-date"><span class="d-from">2009</span><span class="d-sep">–</span><span class="d-to">2014</span></span></li>
+</ul>
+
 ### Selected Publications
 
 For a complete list of publications, please see my Google Scholar profile.
@@ -79,22 +95,6 @@ For a complete list of publications, please see my Google Scholar profile.
 - **An Efficient Framework for Learning Sentence Representations** \[[paper](https://arxiv.org/pdf/1803.02893)\]  
   **Lajanugen Logeswaran**, Honglak Lee  
   <span class="v">ICLR 2018</span>
-
-### Professional Experience
-
-<ul class="cv-list">
-  <li><img class="cv-logo" src="/images/brand/lg.png" alt=""><span class="cv-text">Research Scientist, LG AI Research, Ann Arbor</span><span class="cv-date"><span class="d-from">Jul 2021</span><span class="d-sep">–</span><span class="d-to">Present</span></span></li>
-  <li><img class="cv-logo" src="/images/brand/facebook.png" alt=""><span class="cv-text">Research Intern, Facebook AI Research, New York</span><span class="cv-date"><span class="d-from">May 2019</span><span class="d-sep">–</span><span class="d-to">Aug 2019</span></span></li>
-  <li><img class="cv-logo" src="/images/brand/google.png" alt=""><span class="cv-text">Research Intern, Google Research, Seattle</span><span class="cv-date"><span class="d-from">May 2018</span><span class="d-sep">–</span><span class="d-to">Jan 2019</span></span></li>
-  <li><img class="cv-logo" src="/images/brand/google.png" alt=""><span class="cv-text">Research Intern, Google Brain, Mountain View</span><span class="cv-date"><span class="d-from">Feb 2017</span><span class="d-sep">–</span><span class="d-to">Jun 2017</span></span></li>
-</ul>
-
-### Education
-
-<ul class="cv-list">
-  <li><img class="cv-logo" src="/images/brand/umich.png" alt=""><span class="cv-text">PhD, Computer Science &amp; Engineering<br><span class="cv-sub">University of Michigan</span><br><span class="cv-sub">Advisor: Honglak Lee</span></span><span class="cv-date"><span class="d-from">2015</span><span class="d-sep">–</span><span class="d-to">2021</span></span></li>
-  <li><img class="cv-logo" src="/images/brand/moratuwa.png" alt=""><span class="cv-text">BSc, Electronic &amp; Telecommunication Engineering<br><span class="cv-sub">University of Moratuwa, Sri Lanka</span></span><span class="cv-date"><span class="d-from">2009</span><span class="d-sep">–</span><span class="d-to">2014</span></span></li>
-</ul>
 
 ### Awards &amp; Honors
 
