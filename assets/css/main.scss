@@ -77,3 +77,50 @@
     object-position: left center;
   }
 }
+
+/* Publication list with figure thumbnails.
+   Entries without a figure keep an empty box of the same width so the
+   text column stays aligned down the whole list. */
+.pub-list {
+  margin-left: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.pub {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.1em;
+  margin-bottom: 1.5em;
+}
+
+.pub-thumb {
+  flex: 0 0 170px;
+  width: 170px;
+  height: 112px;
+  object-fit: contain;
+  background: $background-color;
+  border: 1px solid $border-color;
+  border-radius: 3px;
+}
+
+.pub-thumb--none {
+  display: block;
+  border-color: transparent;
+  background: transparent;
+}
+
+.pub-body {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.pub-venue {
+  color: $gray;
+}
+
+@media (max-width: 600px) {
+  .pub { display: block; }
+  .pub-thumb { margin-bottom: 0.6em; }
+  .pub-thumb--none { display: none; }
+}
