@@ -101,6 +101,6 @@ For a complete list of publications, please see my Google Scholar profile.
 <ul class="cv-list">
   <li><i class="fas fa-trophy award-icon" aria-hidden="true"></i><span class="cv-text">Social Impact Award, NAACL</span><span class="cv-date">2024</span></li>
   <li><i class="fas fa-trophy award-icon" aria-hidden="true"></i><span class="cv-text">Best Paper Nomination, ACL</span><span class="cv-date">2019</span></li>
-  <li><i class="fas fa-medal award-icon" aria-hidden="true"></i><span class="cv-text">Bronze Medal, 50th International Mathematical Olympiad</span><span class="cv-date">2009</span></li>
+  <li><i class="fas fa-medal award-icon award-icon--bronze" aria-hidden="true"></i><span class="cv-text">Bronze Medal, 50th International Mathematical Olympiad</span><span class="cv-date">2009</span></li>
   <li><i class="fas fa-medal award-icon" aria-hidden="true"></i><span class="cv-text">Gold Medal, Sri Lankan Mathematics Olympiad</span><span class="cv-date">2007</span></li>
 </ul>
