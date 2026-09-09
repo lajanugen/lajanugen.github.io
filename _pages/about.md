@@ -17,6 +17,14 @@ Interests: Agents, multimodality, planning and reasoning
 
 For a complete list of publications, please see my Google Scholar profile.
 
+- **Co-Evolving Actor-Conditioned Critics for Non-Verifiable Generation** \[[paper](https://arxiv.org/pdf/2608.30397)\]  
+  Jinyoung Kim, Muhammad Khalifa, **Lajanugen Logeswaran**, Jaekyeom Kim, Moontae Lee, Honglak Lee, Lu Wang  
+  arXiv preprint, 2026
+
+- **Gaming the Judge: Unfaithful Chain-of-Thought Can Undermine Agent Evaluation** \[[paper](https://arxiv.org/pdf/2601.14691)\]  
+  Muhammad Khalifa, **Lajanugen Logeswaran**, Jaekyeom Kim, Sungryull Sohn, Yunxiang Zhang, Moontae Lee, Hao Peng, Lu Wang, Honglak Lee  
+  EMNLP Findings 2026
+
 - **Process Reward Models That Think** \[[paper](https://arxiv.org/pdf/2504.16828)\]  
   Muhammad Khalifa, Rishabh Agarwal, **Lajanugen Logeswaran**, Jaekyeom Kim, Hao Peng, Moontae Lee, Honglak Lee, Lu Wang  
   TMLR 2026
@@ -24,6 +32,10 @@ For a complete list of publications, please see my Google Scholar profile.
 - **Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation** \[[paper](https://arxiv.org/pdf/2602.12544)\]  
   **Lajanugen Logeswaran**, Jaekyeom Kim, Sungryull Sohn, Creighton Glasscock, Honglak Lee  
   COLM 2025
+
+- **MLRC-Bench: Can Language Agents Solve Machine Learning Research Challenges?** \[[paper](https://arxiv.org/pdf/2504.09702)\]  
+  Yunxiang Zhang, Muhammad Khalifa, Shitanshu Bhushan, Grant D. Murphy, **Lajanugen Logeswaran**, Jaekyeom Kim, Moontae Lee, Honglak Lee, Lu Wang  
+  NeurIPS 2025 Datasets & Benchmarks
 
 - **Visual Test-time Scaling for GUI Agent Grounding** \[[paper](https://arxiv.org/pdf/2505.00684)\]  
   Tiange Luo, **Lajanugen Logeswaran**, Justin Johnson, Honglak Lee  
@@ -33,7 +45,7 @@ For a complete list of publications, please see my Google Scholar profile.
   Yunseok Jang\*, Yeda Song\*, Sungryull Sohn, **Lajanugen Logeswaran**, Tiange Luo, Dong-Ki Kim, Kyunghoon Bae, Honglak Lee  
   CVPR 2025  
 
-- **AutoGuide: Automated Generation and Selection of State-Aware Guidelines for Large Language Model Agents** \[[paper](https://arxiv.org/pdf/2403.08978)\]  
+- **AutoGuide: Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents** \[[paper](https://arxiv.org/pdf/2403.08978)\]  
   Yao Fu, Dong-Ki Kim, Jaekyeom Kim, Sungryull Sohn, **Lajanugen Logeswaran**, Kyunghoon Bae, Honglak Lee  
   NeurIPS 2024
 
