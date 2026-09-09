@@ -2,6 +2,7 @@
 permalink: /
 title: ""
 author_profile: true
+excerpt: "Research Scientist at LG AI Research, working on AI agents that can reason, plan, and act in digital environments."
 redirect_from: 
   - /about/
   - /about.html
