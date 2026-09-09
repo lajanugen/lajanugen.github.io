@@ -18,6 +18,10 @@ For a complete list of publications, please see my Google Scholar profile.
 
 #### Agent training: data and environments
 
+- **ScreenTutor: Learning Computer-Use Agents from Unlabeled Tutorial Videos** \[[paper](https://openreview.net/forum?id=KBlvLk4DBF)\]  
+  Yeda Song, Ryan Kwon, Ruijie Chen, Jaekyeom Kim, **Lajanugen Logeswaran**, Tiange Luo, Sungryull Sohn, Honglak Lee  
+  COLM 2026 Lifelong Agents Workshop
+
 - **Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation** \[[paper](https://arxiv.org/pdf/2602.12544)\]  
   **Lajanugen Logeswaran**, Jaekyeom Kim, Sungryull Sohn, Creighton Glasscock, Honglak Lee  
   COLM 2025
@@ -31,10 +35,6 @@ For a complete list of publications, please see my Google Scholar profile.
   CVPR 2025
 
 #### Evaluation, verification and reward modeling
-
-- **Co-Evolving Actor-Conditioned Critics for Non-Verifiable Generation** \[[paper](https://arxiv.org/pdf/2608.30397)\]  
-  Jinyoung Kim, Muhammad Khalifa, **Lajanugen Logeswaran**, Jaekyeom Kim, Moontae Lee, Honglak Lee, Lu Wang  
-  arXiv preprint, 2026
 
 - **Gaming the Judge: Unfaithful Chain-of-Thought Can Undermine Agent Evaluation** \[[paper](https://arxiv.org/pdf/2601.14691)\]  
   Muhammad Khalifa, **Lajanugen Logeswaran**, Jaekyeom Kim, Sungryull Sohn, Yunxiang Zhang, Moontae Lee, Hao Peng, Lu Wang, Honglak Lee  
