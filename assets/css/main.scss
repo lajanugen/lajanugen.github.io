@@ -39,3 +39,20 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+/* Heading scale for page content.
+   The theme sizes h3 at $type-size-5 (1em) and h4 at $type-size-6 (0.75em),
+   so section titles matched body text and group titles were smaller than it.
+   Restore a legible 25 / 20 / 16px hierarchy and rule off each section. */
+.page__content {
+  h3 {
+    margin: 2.25em 0 0.75em;
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid $border-color;
+    font-size: $type-size-3;
+  }
+
+  h4 {
+    margin: 1.75em 0 0.6em;
+    font-size: $type-size-4;
+  }
+}
