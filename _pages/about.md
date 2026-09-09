@@ -42,10 +42,6 @@ For a complete list of publications, please see my Google Scholar profile.
   **Lajanugen Logeswaran**, Jaekyeom Kim, Sungryull Sohn, Creighton Glasscock, Honglak Lee  
   <span class="v">COLM 2025</span>
 
-- **Visual Test-time Scaling for GUI Agent Grounding** \[[paper](https://arxiv.org/pdf/2505.00684)\]  
-  Tiange Luo, **Lajanugen Logeswaran**, Justin Johnson, Honglak Lee  
-  <span class="v">ICCV 2025</span> <span class="v v--hl">Spotlight</span>
-
 - **Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents** \[[paper](https://arxiv.org/pdf/2505.12632)\]  
   Yunseok Jang\*, Yeda Song\*, Sungryull Sohn, **Lajanugen Logeswaran**, Tiange Luo, Dong-Ki Kim, Kyunghoon Bae, Honglak Lee  
   <span class="v">CVPR 2025</span>
@@ -68,7 +64,11 @@ For a complete list of publications, please see my Google Scholar profile.
   Yunxiang Zhang, Muhammad Khalifa, **Lajanugen Logeswaran**, Jaekyeom Kim, Moontae Lee, Honglak Lee, Lu Wang  
   <span class="v">ACL Findings 2024</span>
 
-#### Planning and reasoning
+#### Planning, reasoning and grounding
+
+- **Visual Test-time Scaling for GUI Agent Grounding** \[[paper](https://arxiv.org/pdf/2505.00684)\]  
+  Tiange Luo, **Lajanugen Logeswaran**, Justin Johnson, Honglak Lee  
+  <span class="v">ICCV 2025</span> <span class="v v--hl">Spotlight</span>
 
 - **AutoGuide: Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents** \[[paper](https://arxiv.org/pdf/2403.08978)\]  
   Yao Fu, Dong-Ki Kim, Jaekyeom Kim, Sungryull Sohn, **Lajanugen Logeswaran**, Kyunghoon Bae, Honglak Lee  
