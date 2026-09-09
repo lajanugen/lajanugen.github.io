@@ -83,22 +83,24 @@ For a complete list of publications, please see my Google Scholar profile.
 ### Professional Experience
 
 <ul class="cv-list">
-  <li><img class="cv-logo" src="/images/brand/lg.png" alt="LG"><span>Research Scientist, LG AI Research, Ann Arbor, Jul 2021 – Present</span></li>
-  <li><img class="cv-logo" src="/images/brand/facebook.png" alt="Facebook"><span>Research Intern, Facebook AI Research, New York, May 2019 – Aug 2019</span></li>
-  <li><img class="cv-logo" src="/images/brand/google.png" alt="Google"><span>Research Intern, Google Research, Seattle, May 2018 – Jan 2019</span></li>
-  <li><img class="cv-logo" src="/images/brand/google.png" alt="Google"><span>Research Intern, Google Brain, Mountain View, Feb 2017 – Jun 2017</span></li>
+  <li><img class="cv-logo" src="/images/brand/lg.png" alt=""><span class="cv-text">Research Scientist, LG AI Research, Ann Arbor</span><span class="cv-date">Jul 2021 – Present</span></li>
+  <li><img class="cv-logo" src="/images/brand/facebook.png" alt=""><span class="cv-text">Research Intern, Facebook AI Research, New York</span><span class="cv-date">May 2019 – Aug 2019</span></li>
+  <li><img class="cv-logo" src="/images/brand/google.png" alt=""><span class="cv-text">Research Intern, Google Research, Seattle</span><span class="cv-date">May 2018 – Jan 2019</span></li>
+  <li><img class="cv-logo" src="/images/brand/google.png" alt=""><span class="cv-text">Research Intern, Google Brain, Mountain View</span><span class="cv-date">Feb 2017 – Jun 2017</span></li>
 </ul>
 
 ### Education
 
 <ul class="cv-list">
-  <li><img class="cv-logo" src="/images/brand/umich.png" alt="University of Michigan"><span>PhD, Computer Science &amp; Engineering, University of Michigan (Advisor: Honglak Lee), 2015 – 2021</span></li>
-  <li><img class="cv-logo" src="/images/brand/moratuwa.png" alt="University of Moratuwa"><span>BSc, Electronic &amp; Telecommunication Engineering, University of Moratuwa, Sri Lanka, 2009 – 2014</span></li>
+  <li><img class="cv-logo" src="/images/brand/umich.png" alt=""><span class="cv-text">PhD, Computer Science &amp; Engineering, University of Michigan (Advisor: Honglak Lee)</span><span class="cv-date">2015 – 2021</span></li>
+  <li><img class="cv-logo" src="/images/brand/moratuwa.png" alt=""><span class="cv-text">BSc, Electronic &amp; Telecommunication Engineering, University of Moratuwa, Sri Lanka</span><span class="cv-date">2009 – 2014</span></li>
 </ul>
 
-### Awards & Honors
+### Awards &amp; Honors
 
-- Social Impact Award, NAACL 2024
-- Best Paper Nomination, ACL 2019
-- Bronze Medal, 50th International Mathematical Olympiad, 2009
-- Gold Medal, Sri Lankan Mathematics Olympiad, 2007
+<ul class="cv-list">
+  <li><i class="fas fa-trophy award-icon" aria-hidden="true"></i><span class="cv-text">Social Impact Award, NAACL</span><span class="cv-date">2024</span></li>
+  <li><i class="fas fa-trophy award-icon" aria-hidden="true"></i><span class="cv-text">Best Paper Nomination, ACL</span><span class="cv-date">2019</span></li>
+  <li><i class="fas fa-medal award-icon" aria-hidden="true"></i><span class="cv-text">Bronze Medal, 50th International Mathematical Olympiad</span><span class="cv-date">2009</span></li>
+  <li><i class="fas fa-medal award-icon" aria-hidden="true"></i><span class="cv-text">Gold Medal, Sri Lankan Mathematics Olympiad</span><span class="cv-date">2007</span></li>
+</ul>

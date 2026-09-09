@@ -144,8 +144,39 @@ $accent: #2b59d6;
     object-position: center;
   }
 
-  span {
+  .cv-text {
     flex: 1 1 auto;
     min-width: 0;
+  }
+
+  /* Dates sit flush right, as they do in the LaTeX CV. */
+  .cv-date {
+    flex: 0 0 auto;
+    padding-left: 1.5em;
+    color: $gray;
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* Awards use a glyph in place of a logo, in the same 28px column so
+     the three list sections share one text alignment. */
+  .award-icon {
+    flex: 0 0 28px;
+    width: 28px;
+    line-height: inherit;
+    text-align: center;
+    color: #b45309;
+  }
+}
+
+/* Narrow screens have no room for a right-hand date column. */
+@media (max-width: 600px) {
+  .cv-list li {
+    flex-wrap: wrap;
+  }
+
+  .cv-list .cv-date {
+    flex-basis: 100%;
+    padding-left: calc(28px + 0.85em);
   }
 }
