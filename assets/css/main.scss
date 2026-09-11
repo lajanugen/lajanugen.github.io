@@ -137,6 +137,18 @@ $accent: #2b59d6;
   color: #92400e;
 }
 
+/* Paper links: a glyph after the title instead of a bracketed [paper]. */
+.paper-link {
+  margin-left: 0.2em;
+  color: $gray;
+  font-size: 0.82em;
+  text-decoration: none;
+  transition: color 0.15s ease;
+
+  &:hover,
+  &:focus { color: $accent; }
+}
+
 /* Experience list with institution logos. */
 .cv-list {
   margin-left: 0;
